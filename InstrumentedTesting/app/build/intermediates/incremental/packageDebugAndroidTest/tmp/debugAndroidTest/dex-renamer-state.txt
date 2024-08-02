@@ -1,0 +1,4 @@
+#Thu Aug 01 20:05:31 EDT 2024
+base.0=/Users/tirthshah/Desktop/android-testing 3/InstrumentedTesting/app/build/intermediates/dex/debugAndroidTest/mergeDexDebugAndroidTest/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

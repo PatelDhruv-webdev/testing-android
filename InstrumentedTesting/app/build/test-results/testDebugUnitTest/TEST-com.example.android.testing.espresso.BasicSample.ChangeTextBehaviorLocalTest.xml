@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.android.testing.espresso.BasicSample.ChangeTextBehaviorLocalTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-08-02T00:31:38" hostname="Tirths-MacBook-Pro.local" time="1.902">
+  <properties/>
+  <testcase name="changeText_newActivity" classname="com.example.android.testing.espresso.BasicSample.ChangeTextBehaviorLocalTest" time="1.82"/>
+  <testcase name="changeText_sameActivity" classname="com.example.android.testing.espresso.BasicSample.ChangeTextBehaviorLocalTest" time="0.082"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[WARN] Unknown chunk type '200'.
+]]></system-err>
+</testsuite>

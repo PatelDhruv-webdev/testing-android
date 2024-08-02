@@ -1,0 +1,688 @@
+08-01 21:11:51.776 29108 29129 I TestRunner: started: validateEditText(com.example.android.testing.espresso.BasicSample.MainActivityTest)
+08-01 21:11:51.778 29108 29108 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=falsecallback=android.view.ViewRootImpl$$ExternalSyntheticLambda17@54f8303
+08-01 21:11:51.779 29108 29129 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+08-01 21:11:51.783   519  1661 W InputManager-JNI: Input channel object 'a5e9141 com.example.android.testing.espresso.BasicSample/com.example.android.testing.espresso.BasicSample.MainActivity (client)' was disposed without first being removed with the input manager!
+08-01 21:11:51.784   519   953 I ImeTracker: jlin2.examples.localtesting:96c688f5: onRequestHide at ORIGIN_SERVER_HIDE_INPUT reason HIDE_UNSPECIFIED_WINDOW
+08-01 21:11:51.785   519   953 I ImeTracker: jlin2.examples.localtesting:96c688f5: onCancelled at PHASE_SERVER_SHOULD_HIDE
+08-01 21:11:51.786  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3227
+08-01 21:11:51.786  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 0, unlocked = true
+08-01 21:11:51.786  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1877 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=jlin2.examples.localtesting fieldId=0 fieldName=null extras=null}, false)
+08-01 21:11:51.787  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():4008 ShouldHideHeaderOnInitialState = false
+08-01 21:11:51.789  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 2, unlocked = true
+08-01 21:11:51.816 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.MainActivity@7ddb841 in: PRE_ON_CREATE
+08-01 21:11:51.816 29108 29108 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+08-01 21:11:51.822   842   912 D SplashScreenView: Build android.window.SplashScreenView{698418e V.E...... ......ID 0,0-0,0}
+08-01 21:11:51.822   842   912 D SplashScreenView: Icon: view: null drawable: null size: 0
+08-01 21:11:51.822   842   912 D SplashScreenView: Branding: view: android.view.View{4a15daf G.ED..... ......I. 0,0-0,0 #10204ef android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+08-01 21:11:51.835 29108 29108 D AutofillManager: Fill dialog is enabled:false, hints=[password, passwordAuto, creditCardNumber, creditCardSecurityCode, creditCardExpirationDate]
+08-01 21:11:51.844 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.MainActivity@7ddb841 in: CREATED
+08-01 21:11:51.846 29108 29108 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.android.testing.espresso.BasicSample.MainActivity@7ddb841
+08-01 21:11:51.846 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.MainActivity@7ddb841 in: STARTED
+08-01 21:11:51.848 29108 29108 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.android.testing.espresso.BasicSample.MainActivity@7ddb841
+08-01 21:11:51.849 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.MainActivity@7ddb841 in: RESUMED
+08-01 21:11:51.850 29108 29108 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.android.testing.espresso.BasicSample.MainActivity@7ddb841
+08-01 21:11:51.867 29108 29132 E OpenGLRenderer: Unable to match the desired swap behavior.
+08-01 21:11:51.868 29108 29108 D AutofillManager: notifyViewEnteredForFillDialog:1073741824
+08-01 21:11:51.876   842   916 E OpenGLRenderer: Unable to match the desired swap behavior.
+08-01 21:11:51.902   519   538 W ziparchive: Unable to open '/data/app/~~xoqinH8L5liny3sVeTAOoQ==/com.example.android.testing.espresso.BasicSample-q_i0OuZyk4Y_1gwYud2mXw==/base.dm': No such file or directory
+08-01 21:11:51.902   519   538 I ActivityTaskManager: Displayed com.example.android.testing.espresso.BasicSample/.MainActivity for user 0: +81ms
+08-01 21:11:51.933 29144 29144 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=falsecallback=android.view.ViewRootImpl$$ExternalSyntheticLambda17@3207992
+08-01 21:11:51.934   519   830 W InputManager-JNI: Input channel object 'cd32bf5 com.example.android.testing.espresso.BasicSample.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (client)' was disposed without first being removed with the input manager!
+08-01 21:11:51.935   519  1661 I ImeTracker: com.example.android.testing.espresso.BasicSample:612537b1: onRequestHide at ORIGIN_SERVER_HIDE_INPUT reason HIDE_UNSPECIFIED_WINDOW
+08-01 21:11:51.935   519  1661 I ImeTracker: com.example.android.testing.espresso.BasicSample:612537b1: onCancelled at PHASE_SERVER_SHOULD_HIDE
+08-01 21:11:51.936  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3227
+08-01 21:11:51.938  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 0, unlocked = true
+08-01 21:11:51.938  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1877 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.android.testing.espresso.BasicSample fieldId=0 fieldName=null extras=null}, false)
+08-01 21:11:51.938  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():4008 ShouldHideHeaderOnInitialState = false
+08-01 21:11:51.940  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 2, unlocked = true
+08-01 21:11:51.945   519   542 W InputManager-JNI: Input channel object '38310cc Splash Screen com.example.android.testing.espresso.BasicSample.test (client)' was disposed without first being removed with the input manager!
+08-01 21:11:52.061   842   911 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=falsecallback=android.view.ViewRootImpl$$ExternalSyntheticLambda17@433658a
+08-01 21:11:52.230   842   911 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=falsecallback=android.view.ViewRootImpl$$ExternalSyntheticLambda17@c5ae89a
+08-01 21:11:52.230   519   602 W InputManager-JNI: Input channel object '7458cde Splash Screen com.example.android.testing.espresso.BasicSample (client)' was disposed without first being removed with the input manager!
+08-01 21:11:52.441 29108 29129 W sso.BasicSample: Accessing hidden method Landroid/view/ViewConfiguration;->getDoubleTapMinTime()I (unsupported, reflection, allowed)
+08-01 21:11:52.444 29108 29108 I ViewInteraction: Performing 'type text(123)' action on view view.getId() is <2130903042/com.example.android.testing.espresso.BasicSample:id/editTextUserInput>
+08-01 21:11:52.465  1099  1099 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=539.5, y[0]=583.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=36392355, downTime=36392355, deviceId=-1, source=0x1002, displayId=0, eventId=-167907631 }
+08-01 21:11:52.503  1099  1099 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=539.5, y[0]=583.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=36392397, downTime=36392355, deviceId=-1, source=0x1002, displayId=0, eventId=-479502790 }
+08-01 21:11:52.507  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3227
+08-01 21:11:52.508  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 0, unlocked = true
+08-01 21:11:52.509  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1877 onStartInput(EditorInfo{inputType=0x1(Normal) imeOptions=0x6 privateImeOptions=null actionName=DONE actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x0 hintText=non-empty label=null packageName=com.example.android.testing.espresso.BasicSample fieldId=2130903042 fieldName=null extras=null}, false)
+08-01 21:11:52.509  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():4008 ShouldHideHeaderOnInitialState = false
+08-01 21:11:52.509  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 2, unlocked = true
+08-01 21:11:52.515 29108 29108 D CompatibilityChangeReporter: Compat change id reported: 163400105; UID 10193; state: ENABLED
+08-01 21:11:52.516 29108 29108 I ImeTracker: com.example.android.testing.espresso.BasicSample:a7ee3ca8: onRequestShow at ORIGIN_CLIENT_SHOW_SOFT_INPUT reason SHOW_SOFT_INPUT
+08-01 21:11:52.517 29108 29108 D InputMethodManager: showSoftInput() view=android.widget.EditText{94c52cd VFED..CL. .F.P..ID 44,302-1036,426 #7f030002 app:id/editTextUserInput aid=1073741824} flags=0 reason=SHOW_SOFT_INPUT
+08-01 21:11:52.520  1553  1553 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+08-01 21:11:52.520  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onStartInputView():1995 onStartInputView(EditorInfo{inputType=0x1(Normal) imeOptions=0x6 privateImeOptions=null actionName=DONE actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x0 hintText=non-empty label=null packageName=com.example.android.testing.espresso.BasicSample fieldId=2130903042 fieldName=null extras=null}, false)
+08-01 21:11:52.521  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 2, unlocked = true
+08-01 21:11:52.530  1553  1553 W ModuleManager: ModuleManager.loadModule():450 Module erj is not available
+08-01 21:11:52.535  1553  1553 I KeyboardViewUtil: KeyboardViewUtil.getKeyboardHeightRatio():189 systemKeyboardHeightRatio:1.000000; userKeyboardHeightRatio:1.000000.
+08-01 21:11:52.535  1553  1553 I AndroidIME: AbstractIme.onActivate():86 LatinIme.onActivate() : EditorInfo = inputType=0x1(Normal) imeOptions=0x6 privateImeOptions=null actionName=DONE actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x0 hintText=non-empty label=null packageName=com.example.android.testing.espresso.BasicSample fieldId=2130903042 fieldName=null extras=null, IncognitoMode = false, DeviceLocked = false
+08-01 21:11:52.536  1553  1553 I Delight5Facilitator: Delight5Facilitator.initializeForIme():777 initializeForIme() : Locale = [en_US], layout = qwerty
+08-01 21:11:52.537  1553  1553 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.cancelShutdown():55 cancelShutdown()
+08-01 21:11:52.537  1553  1553 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.syncLanguagePacks():67 syncLanguagePacks()
+08-01 21:11:52.546  1553  1553 I LatinIme: LatinIme.updateEnableInlineSuggestionsOnDecoderSideFlags():1003 inline flag updated to:false
+08-01 21:11:52.554  1553  1553 I KeyboardWrapper: KeyboardWrapper.consumeEvent():275 Skip consuming an event as current keyboard is deactivated (state=0, keyboard existence=true)
+08-01 21:11:52.558  1553  9821 I SpeechFactory: SpeechRecognitionFactory.maybeScheduleAutoPackDownloadForFallback():205 maybeScheduleAutoPackDownloadForFallback()
+08-01 21:11:52.558  1553  9821 I FallbackOnDeviceRecognitionProvider: FallbackOnDeviceRecognitionProvider.maybeScheduleAutoPackDownload():195 maybeScheduleAutoPackDownload() for language tag en-US
+08-01 21:11:52.560 29108 29108 I AssistStructure: Flattened final assist data: 1540 bytes, containing 1 windows, 6 views
+08-01 21:11:52.561  1553  1815 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+08-01 21:11:52.577  4849  4849 W AutofillChimeraService: Pending fill request while another request in the same session was triggered. [CONTEXT service_id=177 ]
+08-01 21:11:52.583  1553  1553 I KeyboardViewUtil: KeyboardViewUtil.calculateMaxKeyboardBodyHeight():40 leave 344 height for app when screen height:2088, header height:121 and isFullscreenMode:false, so the max keyboard body height is:1623
+08-01 21:11:52.583  1553  1553 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+08-01 21:11:52.583  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3483 setKeyboardViewShown() : type = HEADER, shownType = SHOW_OPTIONAL
+08-01 21:11:52.583  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3530 setKeyboardViewShown() : shouldShow = true
+08-01 21:11:52.584  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3483 setKeyboardViewShown() : type = BODY, shownType = SHOW_MANDATORY
+08-01 21:11:52.584  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3530 setKeyboardViewShown() : shouldShow = true
+08-01 21:11:52.584  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3483 setKeyboardViewShown() : type = FLOATING_CANDIDATES, shownType = HIDE
+08-01 21:11:52.584  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3530 setKeyboardViewShown() : shouldShow = false
+08-01 21:11:52.585  1553  1553 I KeyboardViewUtil: KeyboardViewUtil.calculateMaxKeyboardBodyHeight():40 leave 344 height for app when screen height:2088, header height:121 and isFullscreenMode:false, so the max keyboard body height is:1623
+08-01 21:11:52.585  1553  1553 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+08-01 21:11:52.586  1553  1553 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+08-01 21:11:52.586  1553  1553 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+08-01 21:11:52.586  1553  1553 I KeyboardModeManager: KeyboardModeManager.setInputView():364 setInputView() : supportsOneHandedMode=true
+08-01 21:11:52.586  1553  1553 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():116 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+08-01 21:11:52.587  1553  1553 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():116 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+08-01 21:11:52.587  1553  1553 I KeyboardModeManager: KeyboardModeManager.setInputView():356 setInputView() : entry=hwn{languageTag=en-US, variant=qwerty, hasLocalizedResources=true, conditionCacheKey=_device=phone_device_size=default_enable_adaptive_text_editing=true_enable_inline_suggestions_on_client_side=false_enable_large_tablet_batch_1=false_enable_large_tablet_batch_2=false_enable_more_candidates_view_for_multilingual=false_enable_nav_redesign=false_enable_number_row=false_enable_preemptive_decode=true_enable_secondary_symbols=false_expressions=normal_four_or_more_letter_rows=false_keyboard_mode=normal_language=en-US_orientation=portrait_physical_keyboard=qwerty_show_secondary_digits=true_show_suggestions=true_split_with_duplicate_keys=true_variant=qwerty, imeDef.stringId=ime_english_united_states, imeDef.className=com.google.android.apps.inputmethod.libs.latin5.LatinIme, imeDef.languageTag=en-US}
+08-01 21:11:52.590  1553  1553 I VoiceImeExtension: VoiceImeExtension.shouldStartVoiceInputAutomatically():383 No private IME option set to start voice input.
+08-01 21:11:52.617  1553  1868 E OpenGLRenderer: Unable to match the desired swap behavior.
+08-01 21:11:52.643  1553  1553 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+08-01 21:11:52.644  1553  1553 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+08-01 21:11:52.644  1553  1553 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():116 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+08-01 21:11:52.644  1553  1950 I Delight5Decoder: Delight5DecoderWrapper.setKeyboardLayout():457 setKeyboardLayout()
+08-01 21:11:52.648 29108 29108 D InsetsController: show(ime(), fromIme=true)
+08-01 21:11:52.650  1503  1503 V InlineSuggestionRenderService: handleDestroySuggestionViews called for 0:2022314463
+08-01 21:11:52.662 29108 29176 D InteractionJankMonitor: Build configuration failed!
+08-01 21:11:52.662 29108 29176 D InteractionJankMonitor: java.lang.IllegalArgumentException: Must pass in a valid surface control if only instrument surface;
+08-01 21:11:52.662 29108 29176 D InteractionJankMonitor: 	at com.android.internal.jank.InteractionJankMonitor$Configuration.validate(InteractionJankMonitor.java:1259)
+08-01 21:11:52.662 29108 29176 D InteractionJankMonitor: 	at com.android.internal.jank.InteractionJankMonitor$Configuration.<init>(InteractionJankMonitor.java:1217)
+08-01 21:11:52.662 29108 29176 D InteractionJankMonitor: 	at com.android.internal.jank.InteractionJankMonitor$Configuration.<init>(Unknown Source:0)
+08-01 21:11:52.662 29108 29176 D InteractionJankMonitor: 	at com.android.internal.jank.InteractionJankMonitor$Configuration$Builder.build(InteractionJankMonitor.java:1197)
+08-01 21:11:52.662 29108 29176 D InteractionJankMonitor: 	at com.android.internal.jank.InteractionJankMonitor.begin(InteractionJankMonitor.java:611)
+08-01 21:11:52.662 29108 29176 D InteractionJankMonitor: 	at android.view.inputmethod.ImeTracker$ImeJankTracker.onRequestAnimation(ImeTracker.java:717)
+08-01 21:11:52.662 29108 29176 D InteractionJankMonitor: 	at android.view.InsetsController$InternalAnimationControlListener$2.onAnimationStart(InsetsController.java:448)
+08-01 21:11:52.662 29108 29176 D InteractionJankMonitor: 	at android.animation.Animator$AnimatorListener.onAnimationStart(Animator.java:695)
+08-01 21:11:52.662 29108 29176 D InteractionJankMonitor: 	at android.animation.Animator$AnimatorCaller$$ExternalSyntheticLambda0.call(Unknown Source:4)
+08-01 21:11:52.662 29108 29176 D InteractionJankMonitor: 	at android.animation.Animator.callOnList(Animator.java:669)
+08-01 21:11:52.662 29108 29176 D InteractionJankMonitor: 	at android.animation.Animator.notifyListeners(Animator.java:608)
+08-01 21:11:52.662 29108 29176 D InteractionJankMonitor: 	at android.animation.Animator.notifyStartListeners(Animator.java:625)
+08-01 21:11:52.662 29108 29176 D InteractionJankMonitor: 	at android.animation.ValueAnimator.startAnimation(ValueAnimator.java:1334)
+08-01 21:11:52.662 29108 29176 D InteractionJankMonitor: 	at android.animation.ValueAnimator.start(ValueAnimator.java:1149)
+08-01 21:11:52.662 29108 29176 D InteractionJankMonitor: 	at android.animation.ValueAnimator.start(ValueAnimator.java:1173)
+08-01 21:11:52.662 29108 29176 D InteractionJankMonitor: 	at android.view.InsetsController$InternalAnimationControlListener.onReady(InsetsController.java:470)
+08-01 21:11:52.662 29108 29176 D InteractionJankMonitor: 	at android.view.InsetsAnimationThreadControlRunner.lambda$new$0(InsetsAnimationThreadControlRunner.java:129)
+08-01 21:11:52.662 29108 29176 D InteractionJankMonitor: 	at android.view.InsetsAnimationThreadControlRunner.$r8$lambda$3zGKYd3XPzPnvMO2hiF8a88M6T0(Unknown Source:0)
+08-01 21:11:52.662 29108 29176 D InteractionJankMonitor: 	at android.view.InsetsAnimationThreadControlRunner$$ExternalSyntheticLambda2.run(Unknown Source:6)
+08-01 21:11:52.662 29108 29176 D InteractionJankMonitor: 	at android.os.Handler.handleCallback(Handler.java:958)
+08-01 21:11:52.662 29108 29176 D InteractionJankMonitor: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+08-01 21:11:52.662 29108 29176 D InteractionJankMonitor: 	at android.os.Looper.loopOnce(Looper.java:205)
+08-01 21:11:52.662 29108 29176 D InteractionJankMonitor: 	at android.os.Looper.loop(Looper.java:294)
+08-01 21:11:52.662 29108 29176 D InteractionJankMonitor: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+08-01 21:11:52.670 17268 17268 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+08-01 21:11:52.670 17268 17268 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+08-01 21:11:52.676 17268 17268 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+08-01 21:11:52.679 17268 17268 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+08-01 21:11:52.679 17268 17268 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+08-01 21:11:52.680 17268 17268 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+08-01 21:11:52.768  1553  1553 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():159 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+08-01 21:11:52.791   842   916 D EGL_emulation: app_time_stats: avg=9.14ms min=0.64ms max=44.58ms count=58
+08-01 21:11:52.794 29108 29108 D UiControllerImpl: Injecting string: "123"
+08-01 21:11:52.812  1553  1553 W AndroidSpellCheckerService: AndroidSpellCheckerService.initialize():82 initialize...
+08-01 21:11:52.812  1553  1553 I ShortcutsDataManager: ShortcutsDataManager.onContentChanged():70 onContentChanged()
+08-01 21:11:52.812  1553  1553 I ContactsDataManager: ContactsDataManager.onContentChanged():156 onContentChanged()
+08-01 21:11:52.813  1553  1553 W AndroidSpellCheckerService: AndroidSpellCheckerService.initialize():94 initialize...done
+08-01 21:11:52.845 29108 29108 I ViewInteraction: Performing 'close keyboard' action on view view.getId() is <2130903042/com.example.android.testing.espresso.BasicSample:id/editTextUserInput>
+08-01 21:11:52.847 29108 29108 D IdlingRegistry: Registering idling resources: [androidx.test.espresso.action.CloseKeyboardAction$CloseKeyboardIdlingResult@3b6eceb]
+08-01 21:11:52.848 29108 29108 I ImeTracker: com.example.android.testing.espresso.BasicSample:55f52148: onRequestHide at ORIGIN_CLIENT_HIDE_SOFT_INPUT reason HIDE_SOFT_INPUT
+08-01 21:11:52.849  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onFinishInputView():2241
+08-01 21:11:52.850  1553  1553 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():159 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+08-01 21:11:52.850  1553  1553 I InputBundle: InputBundle.consumeEvent():923 Skip consuming an event as keyboard status is 0
+08-01 21:11:52.851  1553  1553 I KeyboardWrapper: KeyboardWrapper.consumeEvent():275 Skip consuming an event as current keyboard is deactivated (state=0, keyboard existence=true)
+08-01 21:11:52.851  1553  1553 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.shutdown():77 shutdown()
+08-01 21:11:52.851  1553  1553 I AndroidIME: AbstractIme.onDeactivate():207 LatinIme.onDeactivate()
+08-01 21:11:52.852 29108 29108 I ImeTracker: com.example.android.testing.espresso.BasicSample:a7ee3ca8: onCancelled at PHASE_CLIENT_ANIMATION_CANCEL
+08-01 21:11:52.862 29108 29108 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=falsecallback=ImeCallback=ImeOnBackInvokedCallback@60349402 Callback=android.window.IOnBackInvokedCallback$Stub$Proxy@c153e06
+08-01 21:11:52.866  1553  4692 E native  : E0000 00:00:1722561112.866920    4692 keyboard.cc:27] Cannot create a keyboard with 0 valid keys
+08-01 21:11:53.075 29108 29108 I ImeTracker: com.example.android.testing.espresso.BasicSample:87e8c1e8: onRequestHide at ORIGIN_CLIENT_HIDE_SOFT_INPUT reason HIDE_SOFT_INPUT_BY_INSETS_API
+08-01 21:11:53.076   519   532 I ImeTracker: com.example.android.testing.espresso.BasicSample:87e8c1e8: onCancelled at PHASE_SERVER_SHOULD_HIDE
+08-01 21:11:53.076 29108 29108 I ImeTracker: com.example.android.testing.espresso.BasicSample:55f52148: onHidden
+08-01 21:11:53.090 29108 29108 W FrameTracker: Missed SF frame:SURFACE_FLINGER_SCHEDULING, 1865339, 0, CUJ=J<IME_INSETS_ANIMATION::1@0@com.example.android.testing.espresso.BasicSample>
+08-01 21:11:53.164 29108 29108 D IdlingRegistry: Unregistering idling resources: [androidx.test.espresso.action.CloseKeyboardAction$CloseKeyboardIdlingResult@3b6eceb]
+08-01 21:11:53.166 29108 29108 I ViewInteraction: Performing 'single click' action on view view.getId() is <2130903041/com.example.android.testing.espresso.BasicSample:id/changeTextBt>
+08-01 21:11:53.169  1099  1099 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=539.5, y[0]=711.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=36393065, downTime=36393065, deviceId=-1, source=0x1002, displayId=0, eventId=-12091442 }
+08-01 21:11:53.201 29108 29132 D EGL_emulation: app_time_stats: avg=65.38ms min=0.44ms max=421.33ms count=18
+08-01 21:11:53.212  1099  1099 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=539.5, y[0]=711.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=36393108, downTime=36393065, deviceId=-1, source=0x1002, displayId=0, eventId=-959777174 }
+08-01 21:11:53.215   356  8340 D audioserver: FGS Logger Transaction failed
+08-01 21:11:53.215   356  8340 D audioserver: -129
+08-01 21:11:53.421   356   459 D audioserver: FGS Logger Transaction failed
+08-01 21:11:53.423   356   459 D audioserver: -129
+08-01 21:11:53.476 29108 29108 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: is "123"}' assertion on view view.getId() is <2130903044/com.example.android.testing.espresso.BasicSample:id/textToBeChanged>
+08-01 21:11:53.478 29108 29108 I ViewInteraction: Performing 'replace text()' action on view view.getId() is <2130903042/com.example.android.testing.espresso.BasicSample:id/editTextUserInput>
+08-01 21:11:53.491  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1877 onStartInput(EditorInfo{inputType=0x1(Normal) imeOptions=0x6 privateImeOptions=null actionName=DONE actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x3000 hintText=non-empty label=null packageName=com.example.android.testing.espresso.BasicSample fieldId=2130903042 fieldName=null extras=null}, true)
+08-01 21:11:53.491  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():4008 ShouldHideHeaderOnInitialState = false
+08-01 21:11:53.492  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 2, unlocked = true
+08-01 21:11:53.492  1553  1553 W SessionManager: SessionManager.beginSession():53 Try to begin an already begun session [INPUT_SESSION], end it first
+08-01 21:11:53.493  1553  1553 I ShortcutsDataManager: AbstractContentDataManager.startImportContentTask():234 startImportContentTask()
+08-01 21:11:53.493  1553  1835 I ShortcutsDataManager: AbstractContentDataManager$ImportContentTask.doInBackground():248 doInBackground()
+08-01 21:11:53.493  1553  1835 I PersonalDictionaryDataHandler: PersonalDictionaryDataHandler.beginProcess():111 LanguageTags = [en-US]
+08-01 21:11:53.495 29108 29108 I ViewInteraction: Performing 'type text(123)' action on view view.getId() is <2130903042/com.example.android.testing.espresso.BasicSample:id/editTextUserInput>
+08-01 21:11:53.516  1099  1099 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=539.5, y[0]=583.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=36393395, downTime=36393395, deviceId=-1, source=0x1002, displayId=0, eventId=-130275318 }
+08-01 21:11:53.520  1553  1835 I ShortcutsDataManager: AbstractContentDataManager.importRecords():338 importRecords() : Success : Count = 0
+08-01 21:11:53.527  1553  1835 I ShortcutsDataManager: AbstractContentDataManager.importContentData():288 importContentData() : Ending import process
+08-01 21:11:53.527  1553  1950 I Delight5Decoder: Delight5DecoderWrapper.unloadLanguageModel():857 unloadLanguageModel() : 4, version [n/a]
+08-01 21:11:53.533  1553  1835 I PersonalLanguageModelUpdater: PersonalLanguageModelUpdater$UpdateOperation.performInternal():162 run() : Added 0 words and 0 shortcuts
+08-01 21:11:53.533  1553  1835 I DynamicLanguageModelOperation: DynamicLanguageModelOperation.perform():41 perform() : 4 : cje : Completed
+08-01 21:11:53.533  1553  1950 I Delight5Decoder: Delight5DecoderWrapper.loadLanguageModel():649 loadLanguageModel() : 4, version [n/a]
+08-01 21:11:53.534  1553  1950 I Delight5Decoder: Delight5DecoderWrapper.loadLanguageModel():690 Loaded dynamic LM 4.en
+08-01 21:11:53.534  1553  1553 I ShortcutsDataManager: AbstractContentDataManager$ImportContentTask.onPostExecute():259 onPostExecute() : Result = [2,0]
+08-01 21:11:53.534  1553  1553 I ShortcutsDataManager: ShortcutsDataManager.onImportFinished():80 onImportFinished() : Result = 2 : Count = 0
+08-01 21:11:53.540  1099  1099 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=539.5, y[0]=583.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=36393436, downTime=36393395, deviceId=-1, source=0x1002, displayId=0, eventId=-43336123 }
+08-01 21:11:53.541 29108 29108 I ImeTracker: com.example.android.testing.espresso.BasicSample:5256f462: onRequestShow at ORIGIN_CLIENT_SHOW_SOFT_INPUT reason SHOW_SOFT_INPUT
+08-01 21:11:53.543 29108 29108 D InputMethodManager: showSoftInput() view=android.widget.EditText{94c52cd VFED..CL. .F.P.... 44,302-1036,426 #7f030002 app:id/editTextUserInput aid=1073741824} flags=0 reason=SHOW_SOFT_INPUT
+08-01 21:11:53.545  1553  1553 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+08-01 21:11:53.545  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onStartInputView():1995 onStartInputView(EditorInfo{inputType=0x1(Normal) imeOptions=0x6 privateImeOptions=null actionName=DONE actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x3000 hintText=non-empty label=null packageName=com.example.android.testing.espresso.BasicSample fieldId=2130903042 fieldName=null extras=null}, false)
+08-01 21:11:53.545  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 2, unlocked = true
+08-01 21:11:53.546  1553  1553 W ModuleManager: ModuleManager.loadModule():450 Module erj is not available
+08-01 21:11:53.548  1553  1553 I KeyboardViewUtil: KeyboardViewUtil.getKeyboardHeightRatio():189 systemKeyboardHeightRatio:1.000000; userKeyboardHeightRatio:1.000000.
+08-01 21:11:53.548  1553  1553 I AndroidIME: AbstractIme.onActivate():86 LatinIme.onActivate() : EditorInfo = inputType=0x1(Normal) imeOptions=0x6 privateImeOptions=null actionName=DONE actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x3000 hintText=non-empty label=null packageName=com.example.android.testing.espresso.BasicSample fieldId=2130903042 fieldName=null extras=null, IncognitoMode = false, DeviceLocked = false
+08-01 21:11:53.549  1553  1553 I Delight5Facilitator: Delight5Facilitator.initializeForIme():777 initializeForIme() : Locale = [en_US], layout = qwerty
+08-01 21:11:53.549  1553  1553 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.cancelShutdown():55 cancelShutdown()
+08-01 21:11:53.549  1553  1553 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.syncLanguagePacks():67 syncLanguagePacks()
+08-01 21:11:53.549  1553  9821 I SpeechFactory: SpeechRecognitionFactory.maybeScheduleAutoPackDownloadForFallback():205 maybeScheduleAutoPackDownloadForFallback()
+08-01 21:11:53.549  1553  1553 I LatinIme: LatinIme.updateEnableInlineSuggestionsOnDecoderSideFlags():1003 inline flag updated to:false
+08-01 21:11:53.550  1553  1553 I KeyboardWrapper: KeyboardWrapper.consumeEvent():275 Skip consuming an event as current keyboard is deactivated (state=0, keyboard existence=true)
+08-01 21:11:53.553  1553  1553 I KeyboardViewUtil: KeyboardViewUtil.calculateMaxKeyboardBodyHeight():40 leave 344 height for app when screen height:2088, header height:121 and isFullscreenMode:false, so the max keyboard body height is:1623
+08-01 21:11:53.553  1553  1553 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+08-01 21:11:53.553  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3483 setKeyboardViewShown() : type = HEADER, shownType = SHOW_OPTIONAL
+08-01 21:11:53.553  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3530 setKeyboardViewShown() : shouldShow = true
+08-01 21:11:53.553  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3483 setKeyboardViewShown() : type = BODY, shownType = SHOW_MANDATORY
+08-01 21:11:53.554  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3530 setKeyboardViewShown() : shouldShow = true
+08-01 21:11:53.554  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3483 setKeyboardViewShown() : type = FLOATING_CANDIDATES, shownType = HIDE
+08-01 21:11:53.554  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3530 setKeyboardViewShown() : shouldShow = false
+08-01 21:11:53.560  1553  1553 I KeyboardViewUtil: KeyboardViewUtil.calculateMaxKeyboardBodyHeight():40 leave 344 height for app when screen height:2088, header height:121 and isFullscreenMode:false, so the max keyboard body height is:1623
+08-01 21:11:53.560  1553  1553 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+08-01 21:11:53.561  1553  1553 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+08-01 21:11:53.561  1553  1553 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+08-01 21:11:53.561  1553  1553 I KeyboardModeManager: KeyboardModeManager.setInputView():364 setInputView() : supportsOneHandedMode=true
+08-01 21:11:53.561  1553  1553 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():116 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+08-01 21:11:53.562  1553  9821 I FallbackOnDeviceRecognitionProvider: FallbackOnDeviceRecognitionProvider.maybeScheduleAutoPackDownload():195 maybeScheduleAutoPackDownload() for language tag en-US
+08-01 21:11:53.562  1553  1553 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():116 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+08-01 21:11:53.562  1553  1553 I KeyboardModeManager: KeyboardModeManager.setInputView():356 setInputView() : entry=hwn{languageTag=en-US, variant=qwerty, hasLocalizedResources=true, conditionCacheKey=_device=phone_device_size=default_enable_adaptive_text_editing=true_enable_inline_suggestions_on_client_side=false_enable_large_tablet_batch_1=false_enable_large_tablet_batch_2=false_enable_more_candidates_view_for_multilingual=false_enable_nav_redesign=false_enable_number_row=false_enable_preemptive_decode=true_enable_secondary_symbols=false_expressions=normal_four_or_more_letter_rows=false_keyboard_mode=normal_language=en-US_orientation=portrait_physical_keyboard=qwerty_show_secondary_digits=true_show_suggestions=true_split_with_duplicate_keys=true_variant=qwerty, imeDef.stringId=ime_english_united_states, imeDef.className=com.google.android.apps.inputmethod.libs.latin5.LatinIme, imeDef.languageTag=en-US}
+08-01 21:11:53.563  1553  1553 I VoiceImeExtension: VoiceImeExtension.shouldStartVoiceInputAutomatically():383 No private IME option set to start voice input.
+08-01 21:11:53.565 17268 17268 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+08-01 21:11:53.565 17268 17268 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+08-01 21:11:53.566 17268 17268 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+08-01 21:11:53.570  1553  1868 E OpenGLRenderer: Unable to match the desired swap behavior.
+08-01 21:11:53.582  1553  1553 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+08-01 21:11:53.582  1553  1553 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+08-01 21:11:53.582  1553  1553 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():116 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+08-01 21:11:53.583  1553  1950 I Delight5Decoder: Delight5DecoderWrapper.setKeyboardLayout():457 setKeyboardLayout()
+08-01 21:11:53.583  1553  1815 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+08-01 21:11:53.584 29108 29108 D InsetsController: show(ime(), fromIme=true)
+08-01 21:11:53.595 17268 17268 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+08-01 21:11:53.595 17268 17268 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+08-01 21:11:53.597 17268 17268 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+08-01 21:11:53.753  1553  1553 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():159 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+08-01 21:11:53.776 29108 29108 D UiControllerImpl: Injecting string: "123"
+08-01 21:11:53.791   842   916 D EGL_emulation: app_time_stats: avg=18.80ms min=2.13ms max=55.30ms count=51
+08-01 21:11:53.812 29108 29108 I ImeTracker: com.example.android.testing.espresso.BasicSample:5256f462: onShown
+08-01 21:11:53.830 29108 29108 I ViewInteraction: Performing 'close keyboard' action on view view.getId() is <2130903042/com.example.android.testing.espresso.BasicSample:id/editTextUserInput>
+08-01 21:11:53.832 29108 29108 D IdlingRegistry: Registering idling resources: [androidx.test.espresso.action.CloseKeyboardAction$CloseKeyboardIdlingResult@32b3578]
+08-01 21:11:53.833 29108 29108 I ImeTracker: com.example.android.testing.espresso.BasicSample:e83dc164: onRequestHide at ORIGIN_CLIENT_HIDE_SOFT_INPUT reason HIDE_SOFT_INPUT
+08-01 21:11:53.834  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onFinishInputView():2241
+08-01 21:11:53.835  1553  1553 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():159 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+08-01 21:11:53.835  1553  1553 I InputBundle: InputBundle.consumeEvent():923 Skip consuming an event as keyboard status is 0
+08-01 21:11:53.836  1553  1553 I KeyboardWrapper: KeyboardWrapper.consumeEvent():275 Skip consuming an event as current keyboard is deactivated (state=0, keyboard existence=true)
+08-01 21:11:53.836  1553  1553 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.shutdown():77 shutdown()
+08-01 21:11:53.836  1553  1553 I AndroidIME: AbstractIme.onDeactivate():207 LatinIme.onDeactivate()
+08-01 21:11:53.848 29108 29108 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=falsecallback=ImeCallback=ImeOnBackInvokedCallback@60349402 Callback=android.window.IOnBackInvokedCallback$Stub$Proxy@b6d15b7
+08-01 21:11:53.851  1553  4692 E native  : E0000 00:00:1722561113.851112    4692 keyboard.cc:27] Cannot create a keyboard with 0 valid keys
+08-01 21:11:53.891 29108 29108 W FrameTracker: Missed SF frame:PREDICTION_ERROR, 1866102, 0, CUJ=J<IME_INSETS_ANIMATION::0@0@com.example.android.testing.espresso.BasicSample>
+08-01 21:11:53.891 29108 29108 W FrameTracker: Missed SF frame:PREDICTION_ERROR, 1866138, 0, CUJ=J<IME_INSETS_ANIMATION::0@0@com.example.android.testing.espresso.BasicSample>
+08-01 21:11:53.891 29108 29108 W FrameTracker: Missed SF frame:SURFACE_FLINGER_SCHEDULING, 1866160, 0, CUJ=J<IME_INSETS_ANIMATION::0@0@com.example.android.testing.espresso.BasicSample>
+08-01 21:11:53.891 29108 29108 W FrameTracker: Missed SF frame:PREDICTION_ERROR, 1866182, 0, CUJ=J<IME_INSETS_ANIMATION::0@0@com.example.android.testing.espresso.BasicSample>
+08-01 21:11:53.891 29108 29108 W FrameTracker: Missed SF frame:PREDICTION_ERROR, 1866204, 0, CUJ=J<IME_INSETS_ANIMATION::0@0@com.example.android.testing.espresso.BasicSample>
+08-01 21:11:53.892 29108 29108 W FrameTracker: Missed SF frame:PREDICTION_ERROR, 1866233, 0, CUJ=J<IME_INSETS_ANIMATION::0@0@com.example.android.testing.espresso.BasicSample>
+08-01 21:11:53.892 29108 29108 W FrameTracker: Missed SF frame:PREDICTION_ERROR, 1866255, 0, CUJ=J<IME_INSETS_ANIMATION::0@0@com.example.android.testing.espresso.BasicSample>
+08-01 21:11:53.892 29108 29108 W FrameTracker: Missed SF frame:PREDICTION_ERROR, 1866277, 0, CUJ=J<IME_INSETS_ANIMATION::0@0@com.example.android.testing.espresso.BasicSample>
+08-01 21:11:53.892 29108 29108 W FrameTracker: Missed SF frame:PREDICTION_ERROR, 1866299, 0, CUJ=J<IME_INSETS_ANIMATION::0@0@com.example.android.testing.espresso.BasicSample>
+08-01 21:11:53.892 29108 29108 W FrameTracker: Missed SF frame:PREDICTION_ERROR, 1866321, 0, CUJ=J<IME_INSETS_ANIMATION::0@0@com.example.android.testing.espresso.BasicSample>
+08-01 21:11:53.893 29108 29108 W FrameTracker: Missed SF frame:PREDICTION_ERROR, 1866343, 0, CUJ=J<IME_INSETS_ANIMATION::0@0@com.example.android.testing.espresso.BasicSample>
+08-01 21:11:53.893 29108 29108 W FrameTracker: Missed SF frame:PREDICTION_ERROR, 1866365, 0, CUJ=J<IME_INSETS_ANIMATION::0@0@com.example.android.testing.espresso.BasicSample>
+08-01 21:11:53.893 29108 29108 W FrameTracker: Missed SF frame:UNKNOWN: 80, 1866387, 0, CUJ=J<IME_INSETS_ANIMATION::0@0@com.example.android.testing.espresso.BasicSample>
+08-01 21:11:53.893 29108 29177 V PerfettoTrigger: Triggering /system/bin/trigger_perfetto com.android.telemetry.interaction-jank-monitor-69
+08-01 21:11:54.062 29108 29108 I ImeTracker: com.example.android.testing.espresso.BasicSample:6d274db8: onRequestHide at ORIGIN_CLIENT_HIDE_SOFT_INPUT reason HIDE_SOFT_INPUT_BY_INSETS_API
+08-01 21:11:54.063   519   920 I ImeTracker: com.example.android.testing.espresso.BasicSample:6d274db8: onCancelled at PHASE_SERVER_SHOULD_HIDE
+08-01 21:11:54.063 29108 29108 I ImeTracker: com.example.android.testing.espresso.BasicSample:e83dc164: onHidden
+08-01 21:11:54.148 29108 29108 D IdlingRegistry: Unregistering idling resources: [androidx.test.espresso.action.CloseKeyboardAction$CloseKeyboardIdlingResult@32b3578]
+08-01 21:11:54.150 29108 29108 I ViewInteraction: Performing 'single click' action on view view.getId() is <2130903040/com.example.android.testing.espresso.BasicSample:id/activityChangeTextBtn>
+08-01 21:11:54.152  1099  1099 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=539.5, y[0]=843.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=36394049, downTime=36394049, deviceId=-1, source=0x1002, displayId=0, eventId=-622141025 }
+08-01 21:11:54.194  1099  1099 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=539.5, y[0]=843.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=36394090, downTime=36394049, deviceId=-1, source=0x1002, displayId=0, eventId=-599507023 }
+08-01 21:11:54.195   356  8340 D audioserver: FGS Logger Transaction failed
+08-01 21:11:54.196   356  8340 D audioserver: -129
+08-01 21:11:54.202 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.MainActivity@7ddb841 in: PAUSED
+08-01 21:11:54.202 29108 29108 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.android.testing.espresso.BasicSample.MainActivity@7ddb841
+08-01 21:11:54.212 29108 29132 D EGL_emulation: app_time_stats: avg=18.68ms min=7.09ms max=96.15ms count=54
+08-01 21:11:54.214   356   459 D AudioFlinger: mixer(0xb40000731f158930) throttle end: throttle time(37)
+08-01 21:11:54.215 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.ShowTextActivity@acc3766 in: PRE_ON_CREATE
+08-01 21:11:54.216 29108 29108 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.android.testing.espresso.BasicSample/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.android.testing.espresso.BasicSample/.ShowTextActivity (has extras) }, activity=com.example.android.testing.espresso.BasicSample.ShowTextActivity@acc3766
+08-01 21:11:54.220 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.ShowTextActivity@acc3766 in: CREATED
+08-01 21:11:54.220 29108 29108 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.android.testing.espresso.BasicSample/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.android.testing.espresso.BasicSample/.ShowTextActivity (has extras) }, activity=com.example.android.testing.espresso.BasicSample.ShowTextActivity@acc3766
+08-01 21:11:54.220 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.ShowTextActivity@acc3766 in: STARTED
+08-01 21:11:54.221 29108 29108 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.android.testing.espresso.BasicSample/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.android.testing.espresso.BasicSample/.ShowTextActivity (has extras) }, activity=com.example.android.testing.espresso.BasicSample.ShowTextActivity@acc3766
+08-01 21:11:54.221   359   359 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+08-01 21:11:54.229 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.ShowTextActivity@acc3766 in: RESUMED
+08-01 21:11:54.229 29108 29108 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.android.testing.espresso.BasicSample/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.android.testing.espresso.BasicSample/.ShowTextActivity (has extras) }, activity=com.example.android.testing.espresso.BasicSample.ShowTextActivity@acc3766
+08-01 21:11:54.236 29108 29132 E OpenGLRenderer: Unable to match the desired swap behavior.
+08-01 21:11:54.251   519   538 I ActivityTaskManager: Displayed com.example.android.testing.espresso.BasicSample/.ShowTextActivity for user 0: +49ms
+08-01 21:11:54.359   519   920 I ImeTracker: com.example.android.testing.espresso.BasicSample:1a188fdc: onRequestHide at ORIGIN_SERVER_HIDE_INPUT reason HIDE_UNSPECIFIED_WINDOW
+08-01 21:11:54.359   519   920 I ImeTracker: com.example.android.testing.espresso.BasicSample:1a188fdc: onCancelled at PHASE_SERVER_SHOULD_HIDE
+08-01 21:11:54.361  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3227
+08-01 21:11:54.362  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 0, unlocked = true
+08-01 21:11:54.362  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1877 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.android.testing.espresso.BasicSample fieldId=0 fieldName=null extras=null}, false)
+08-01 21:11:54.362  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():4008 ShouldHideHeaderOnInitialState = false
+08-01 21:11:54.363  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 2, unlocked = true
+08-01 21:11:54.419   356   459 D audioserver: FGS Logger Transaction failed
+08-01 21:11:54.419   356   459 D audioserver: -129
+08-01 21:11:54.496 29108 29108 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: is "123"}' assertion on view view.getId() is <2130903043/com.example.android.testing.espresso.BasicSample:id/show_text_view>
+08-01 21:11:54.498 29108 29108 I ViewInteraction: Performing 'send keyCode: 4, metaState: 0 key event' action on view view.getRootView() to equal view
+08-01 21:11:54.503  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onKeyDown():2444 Received KEYCODE_BACK. isAllViewsInvisible=false
+08-01 21:11:54.510 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.ShowTextActivity@acc3766 in: PAUSED
+08-01 21:11:54.511 29108 29108 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.android.testing.espresso.BasicSample/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.android.testing.espresso.BasicSample/.ShowTextActivity (has extras) }, activity=com.example.android.testing.espresso.BasicSample.ShowTextActivity@acc3766
+08-01 21:11:54.514 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.MainActivity@7ddb841 in: RESUMED
+08-01 21:11:54.515 29108 29108 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.android.testing.espresso.BasicSample.MainActivity@7ddb841
+08-01 21:11:54.546   519   920 I ImeTracker: com.example.android.testing.espresso.BasicSample:34af45e0: onRequestHide at ORIGIN_SERVER_HIDE_INPUT reason HIDE_UNSPECIFIED_WINDOW
+08-01 21:11:54.546   519   920 I ImeTracker: com.example.android.testing.espresso.BasicSample:34af45e0: onCancelled at PHASE_SERVER_SHOULD_HIDE
+08-01 21:11:54.547  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3227
+08-01 21:11:54.548  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 0, unlocked = true
+08-01 21:11:54.548  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1877 onStartInput(EditorInfo{inputType=0x1(Normal) imeOptions=0x6 privateImeOptions=null actionName=DONE actionLabel=null actionId=0 initialSelStart=3 initialSelEnd=3 initialCapsMode=0x0 hintText=non-empty label=null packageName=com.example.android.testing.espresso.BasicSample fieldId=2130903042 fieldName=null extras=null}, false)
+08-01 21:11:54.548  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():4008 ShouldHideHeaderOnInitialState = false
+08-01 21:11:54.548  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 2, unlocked = true
+08-01 21:11:54.811   842   916 D EGL_emulation: app_time_stats: avg=20.80ms min=12.34ms max=49.78ms count=49
+08-01 21:11:54.884 28979 28980 I AidlLazyServiceRegistrar: Process has 0 (of 1 available) client(s) in use after notification artd has clients: 0
+08-01 21:11:54.884 28979 28980 I AidlLazyServiceRegistrar: Trying to shut down the service. No clients in use for any service in process.
+08-01 21:11:54.885 28979 28980 I AidlLazyServiceRegistrar: Unregistered all clients and exiting
+08-01 21:11:55.027 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.ShowTextActivity@acc3766 in: STOPPED
+08-01 21:11:55.027 29108 29108 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.android.testing.espresso.BasicSample/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.android.testing.espresso.BasicSample/.ShowTextActivity (has extras) }, activity=com.example.android.testing.espresso.BasicSample.ShowTextActivity@acc3766
+08-01 21:11:55.028 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.ShowTextActivity@acc3766 in: DESTROYED
+08-01 21:11:55.028 29108 29108 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.android.testing.espresso.BasicSample/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.android.testing.espresso.BasicSample/.ShowTextActivity (has extras) }, activity=com.example.android.testing.espresso.BasicSample.ShowTextActivity@acc3766
+08-01 21:11:55.029 29108 29108 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=falsecallback=android.view.ViewRootImpl$$ExternalSyntheticLambda17@754ccb5
+08-01 21:11:55.030   519   920 W InputManager-JNI: Input channel object 'f251aba com.example.android.testing.espresso.BasicSample/com.example.android.testing.espresso.BasicSample.ShowTextActivity (client)' was disposed without first being removed with the input manager!
+08-01 21:11:55.136 29108 29108 W KeyEventActionBase: Back was pressed and left the application in an inconsistent state even after 600ms.
+08-01 21:11:55.139 29108 29108 I ViewInteraction: Performing 'replace text()' action on view view.getId() is <2130903042/com.example.android.testing.espresso.BasicSample:id/editTextUserInput>
+08-01 21:11:55.158  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1877 onStartInput(EditorInfo{inputType=0x1(Normal) imeOptions=0x6 privateImeOptions=null actionName=DONE actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x3000 hintText=non-empty label=null packageName=com.example.android.testing.espresso.BasicSample fieldId=2130903042 fieldName=null extras=null}, true)
+08-01 21:11:55.159  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():4008 ShouldHideHeaderOnInitialState = false
+08-01 21:11:55.159  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 2, unlocked = true
+08-01 21:11:55.159  1553  1553 W SessionManager: SessionManager.beginSession():53 Try to begin an already begun session [INPUT_SESSION], end it first
+08-01 21:11:55.161 29108 29108 I ViewInteraction: Performing 'type text()' action on view view.getId() is <2130903042/com.example.android.testing.espresso.BasicSample:id/editTextUserInput>
+08-01 21:11:55.164 29108 29108 W TypeTextAction: Supplied string is empty resulting in no-op (nothing is typed).
+08-01 21:11:55.167 29108 29108 I ViewInteraction: Performing 'close keyboard' action on view view.getId() is <2130903042/com.example.android.testing.espresso.BasicSample:id/editTextUserInput>
+08-01 21:11:55.170 29108 29108 D IdlingRegistry: Registering idling resources: [androidx.test.espresso.action.CloseKeyboardAction$CloseKeyboardIdlingResult@968b887]
+08-01 21:11:55.170 29108 29108 I ImeTracker: com.example.android.testing.espresso.BasicSample:ff33fe3a: onRequestHide at ORIGIN_CLIENT_HIDE_SOFT_INPUT reason HIDE_SOFT_INPUT
+08-01 21:11:55.171   519   920 I ImeTracker: com.example.android.testing.espresso.BasicSample:ff33fe3a: onCancelled at PHASE_SERVER_SHOULD_HIDE
+08-01 21:11:55.173 29108 29108 W CloseKeyboardAction: Attempting to close soft keyboard, while it is not shown.
+08-01 21:11:55.173 29108 29108 D IdlingRegistry: Unregistering idling resources: [androidx.test.espresso.action.CloseKeyboardAction$CloseKeyboardIdlingResult@968b887]
+08-01 21:11:55.175 29108 29108 I ViewInteraction: Performing 'single click' action on view view.getId() is <2130903041/com.example.android.testing.espresso.BasicSample:id/changeTextBt>
+08-01 21:11:55.179  1099  1099 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=539.5, y[0]=711.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=36395075, downTime=36395075, deviceId=-1, source=0x1002, displayId=0, eventId=-294377327 }
+08-01 21:11:55.220  1099  1099 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=539.5, y[0]=711.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=36395116, downTime=36395075, deviceId=-1, source=0x1002, displayId=0, eventId=-115634418 }
+08-01 21:11:55.224   356  8340 D audioserver: FGS Logger Transaction failed
+08-01 21:11:55.224   356  8340 D audioserver: -129
+08-01 21:11:55.227 29108 29132 D EGL_emulation: app_time_stats: avg=19.14ms min=11.94ms max=121.98ms count=53
+08-01 21:11:55.461   356   459 D audioserver: FGS Logger Transaction failed
+08-01 21:11:55.461   356   459 D audioserver: -129
+08-01 21:11:55.478 29108 29108 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: is ""}' assertion on view view.getId() is <2130903044/com.example.android.testing.espresso.BasicSample:id/textToBeChanged>
+08-01 21:11:55.481 29108 29108 I ViewInteraction: Performing 'replace text()' action on view view.getId() is <2130903042/com.example.android.testing.espresso.BasicSample:id/editTextUserInput>
+08-01 21:11:55.489  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1877 onStartInput(EditorInfo{inputType=0x1(Normal) imeOptions=0x6 privateImeOptions=null actionName=DONE actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x3000 hintText=non-empty label=null packageName=com.example.android.testing.espresso.BasicSample fieldId=2130903042 fieldName=null extras=null}, true)
+08-01 21:11:55.490  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():4008 ShouldHideHeaderOnInitialState = false
+08-01 21:11:55.490  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 2, unlocked = true
+08-01 21:11:55.490  1553  1553 W SessionManager: SessionManager.beginSession():53 Try to begin an already begun session [INPUT_SESSION], end it first
+08-01 21:11:55.492 29108 29108 I ViewInteraction: Performing 'type text()' action on view view.getId() is <2130903042/com.example.android.testing.espresso.BasicSample:id/editTextUserInput>
+08-01 21:11:55.494 29108 29108 W TypeTextAction: Supplied string is empty resulting in no-op (nothing is typed).
+08-01 21:11:55.495 29108 29108 I ViewInteraction: Performing 'close keyboard' action on view view.getId() is <2130903042/com.example.android.testing.espresso.BasicSample:id/editTextUserInput>
+08-01 21:11:55.497 29108 29108 D IdlingRegistry: Registering idling resources: [androidx.test.espresso.action.CloseKeyboardAction$CloseKeyboardIdlingResult@f0e5623]
+08-01 21:11:55.498 29108 29108 I ImeTracker: com.example.android.testing.espresso.BasicSample:199df07: onRequestHide at ORIGIN_CLIENT_HIDE_SOFT_INPUT reason HIDE_SOFT_INPUT
+08-01 21:11:55.498   519   920 I ImeTracker: com.example.android.testing.espresso.BasicSample:199df07: onCancelled at PHASE_SERVER_SHOULD_HIDE
+08-01 21:11:55.499 29108 29108 W CloseKeyboardAction: Attempting to close soft keyboard, while it is not shown.
+08-01 21:11:55.499 29108 29108 D IdlingRegistry: Unregistering idling resources: [androidx.test.espresso.action.CloseKeyboardAction$CloseKeyboardIdlingResult@f0e5623]
+08-01 21:11:55.500 29108 29108 I ViewInteraction: Performing 'single click' action on view view.getId() is <2130903040/com.example.android.testing.espresso.BasicSample:id/activityChangeTextBtn>
+08-01 21:11:55.502  1099  1099 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=539.5, y[0]=843.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=36395398, downTime=36395398, deviceId=-1, source=0x1002, displayId=0, eventId=-87718723 }
+08-01 21:11:55.541  1099  1099 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=539.5, y[0]=843.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=36395438, downTime=36395398, deviceId=-1, source=0x1002, displayId=0, eventId=-966572124 }
+08-01 21:11:55.544   356  8340 D audioserver: FGS Logger Transaction failed
+08-01 21:11:55.544   356  8340 D audioserver: -129
+08-01 21:11:55.549 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.MainActivity@7ddb841 in: PAUSED
+08-01 21:11:55.550 29108 29108 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.android.testing.espresso.BasicSample.MainActivity@7ddb841
+08-01 21:11:55.555   359   359 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+08-01 21:11:55.562 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.ShowTextActivity@56ac995 in: PRE_ON_CREATE
+08-01 21:11:55.563 29108 29108 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.android.testing.espresso.BasicSample/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.android.testing.espresso.BasicSample/.ShowTextActivity (has extras) }, activity=com.example.android.testing.espresso.BasicSample.ShowTextActivity@56ac995
+08-01 21:11:55.566 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.ShowTextActivity@56ac995 in: CREATED
+08-01 21:11:55.566 29108 29108 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.android.testing.espresso.BasicSample/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.android.testing.espresso.BasicSample/.ShowTextActivity (has extras) }, activity=com.example.android.testing.espresso.BasicSample.ShowTextActivity@56ac995
+08-01 21:11:55.567 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.ShowTextActivity@56ac995 in: STARTED
+08-01 21:11:55.567 29108 29108 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.android.testing.espresso.BasicSample/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.android.testing.espresso.BasicSample/.ShowTextActivity (has extras) }, activity=com.example.android.testing.espresso.BasicSample.ShowTextActivity@56ac995
+08-01 21:11:55.568 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.ShowTextActivity@56ac995 in: RESUMED
+08-01 21:11:55.568 29108 29108 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.android.testing.espresso.BasicSample/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.android.testing.espresso.BasicSample/.ShowTextActivity (has extras) }, activity=com.example.android.testing.espresso.BasicSample.ShowTextActivity@56ac995
+08-01 21:11:55.626 29108 29132 E OpenGLRenderer: Unable to match the desired swap behavior.
+08-01 21:11:55.644   519   538 I ActivityTaskManager: Displayed com.example.android.testing.espresso.BasicSample/.ShowTextActivity for user 0: +86ms
+08-01 21:11:55.757   519   920 I ImeTracker: com.example.android.testing.espresso.BasicSample:5b1af428: onRequestHide at ORIGIN_SERVER_HIDE_INPUT reason HIDE_UNSPECIFIED_WINDOW
+08-01 21:11:55.757   519   920 I ImeTracker: com.example.android.testing.espresso.BasicSample:5b1af428: onCancelled at PHASE_SERVER_SHOULD_HIDE
+08-01 21:11:55.759  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3227
+08-01 21:11:55.760  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 0, unlocked = true
+08-01 21:11:55.760  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1877 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.android.testing.espresso.BasicSample fieldId=0 fieldName=null extras=null}, false)
+08-01 21:11:55.761  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():4008 ShouldHideHeaderOnInitialState = false
+08-01 21:11:55.761  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 2, unlocked = true
+08-01 21:11:55.778   356   459 D audioserver: FGS Logger Transaction failed
+08-01 21:11:55.778   356   459 D audioserver: -129
+08-01 21:11:55.884 29108 29108 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: is ""}' assertion on view view.getId() is <2130903043/com.example.android.testing.espresso.BasicSample:id/show_text_view>
+08-01 21:11:55.886 29108 29108 I ViewInteraction: Performing 'send keyCode: 4, metaState: 0 key event' action on view view.getRootView() to equal view
+08-01 21:11:55.894  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onKeyDown():2444 Received KEYCODE_BACK. isAllViewsInvisible=false
+08-01 21:11:55.897 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.ShowTextActivity@56ac995 in: PAUSED
+08-01 21:11:55.898 29108 29108 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.android.testing.espresso.BasicSample/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.android.testing.espresso.BasicSample/.ShowTextActivity (has extras) }, activity=com.example.android.testing.espresso.BasicSample.ShowTextActivity@56ac995
+08-01 21:11:55.901 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.MainActivity@7ddb841 in: RESUMED
+08-01 21:11:55.901 29108 29108 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.android.testing.espresso.BasicSample.MainActivity@7ddb841
+08-01 21:11:55.930   519   920 I ImeTracker: com.example.android.testing.espresso.BasicSample:a3475b7e: onRequestHide at ORIGIN_SERVER_HIDE_INPUT reason HIDE_UNSPECIFIED_WINDOW
+08-01 21:11:55.930   519   920 I ImeTracker: com.example.android.testing.espresso.BasicSample:a3475b7e: onCancelled at PHASE_SERVER_SHOULD_HIDE
+08-01 21:11:55.931  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3227
+08-01 21:11:55.932  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 0, unlocked = true
+08-01 21:11:55.932  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1877 onStartInput(EditorInfo{inputType=0x1(Normal) imeOptions=0x6 privateImeOptions=null actionName=DONE actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x0 hintText=non-empty label=null packageName=com.example.android.testing.espresso.BasicSample fieldId=2130903042 fieldName=null extras=null}, false)
+08-01 21:11:55.932  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():4008 ShouldHideHeaderOnInitialState = false
+08-01 21:11:55.932  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 2, unlocked = true
+08-01 21:11:56.244 29108 29132 D EGL_emulation: app_time_stats: avg=15.53ms min=1.36ms max=46.19ms count=59
+08-01 21:11:56.284 27484 27546 D BtGatt.ScanManager: regularScanTimeout - client scan time was too long
+08-01 21:11:56.285 27484 27546 W BtGatt.ScanManager: Moving filtered scan client to downgraded scan (scannerId 3)
+08-01 21:11:56.286 27484 27546 D BtGatt.ScanManager: configureRegularScanParams() - queue=3
+08-01 21:11:56.290 27484 27546 I bt_stack: [INFO:le_scanning_manager.cc(168)] Scan in shim layer stopped
+08-01 21:11:56.290 27484 27529 I bluetooth: packages/modules/Bluetooth/system/gd/hci/le_address_manager.cc:193 unregister_client: Client unregistered
+08-01 21:11:56.290 27484 27529 I bluetooth: packages/modules/Bluetooth/system/gd/hci/le_address_manager.cc:197 unregister_client: Cancelled address rotation alarm
+08-01 21:11:56.292 27484 27546 D BtGatt.ScanManager: Start gattClientScanNative with old scanMode 1 new scanMode 0 ( in MS: 1400 / 140, in scan unit: 2240 / 224 ) [ScanClient scanModeApp 1 scanModeUsed 0 [appScanStats com.google.uid.shared:10130]]
+08-01 21:11:56.295 27484 27546 I bt_stack: [INFO:le_scanning_manager.cc(346)] SetScanParameters in shim layer
+08-01 21:11:56.295 27484 27533 D BtGatt.GattService: onScanParamSetupCompleted : 0
+08-01 21:11:56.296 27484 27546 I bt_stack: [INFO:le_scanning_manager.cc(168)] Scan in shim layer started
+08-01 21:11:56.296 27484 27529 I bluetooth: packages/modules/Bluetooth/system/gd/hci/le_scanning_manager.cc:588 stop_scan: Scanning already stopped, return!
+08-01 21:11:56.296 27484 27529 I bluetooth: packages/modules/Bluetooth/system/gd/hci/le_address_manager.cc:175 register_client: Scheduled address rotation for first client registered
+08-01 21:11:56.296 27484 27529 I bluetooth: packages/modules/Bluetooth/system/gd/hci/le_address_manager.cc:178 register_client: Client registered
+08-01 21:11:56.394 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.ShowTextActivity@56ac995 in: STOPPED
+08-01 21:11:56.394 29108 29108 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.android.testing.espresso.BasicSample/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.android.testing.espresso.BasicSample/.ShowTextActivity (has extras) }, activity=com.example.android.testing.espresso.BasicSample.ShowTextActivity@56ac995
+08-01 21:11:56.395 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.ShowTextActivity@56ac995 in: DESTROYED
+08-01 21:11:56.395 29108 29108 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.android.testing.espresso.BasicSample/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.android.testing.espresso.BasicSample/.ShowTextActivity (has extras) }, activity=com.example.android.testing.espresso.BasicSample.ShowTextActivity@56ac995
+08-01 21:11:56.396 29108 29108 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=falsecallback=android.view.ViewRootImpl$$ExternalSyntheticLambda17@e7ef850
+08-01 21:11:56.397   519   920 W InputManager-JNI: Input channel object 'c9dcd4b com.example.android.testing.espresso.BasicSample/com.example.android.testing.espresso.BasicSample.ShowTextActivity (client)' was disposed without first being removed with the input manager!
+08-01 21:11:56.529 29108 29108 W KeyEventActionBase: Back was pressed and left the application in an inconsistent state even after 600ms.
+08-01 21:11:56.532 29108 29108 I ViewInteraction: Performing 'replace text()' action on view view.getId() is <2130903042/com.example.android.testing.espresso.BasicSample:id/editTextUserInput>
+08-01 21:11:56.539  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1877 onStartInput(EditorInfo{inputType=0x1(Normal) imeOptions=0x6 privateImeOptions=null actionName=DONE actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x3000 hintText=non-empty label=null packageName=com.example.android.testing.espresso.BasicSample fieldId=2130903042 fieldName=null extras=null}, true)
+08-01 21:11:56.540  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():4008 ShouldHideHeaderOnInitialState = false
+08-01 21:11:56.540  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 2, unlocked = true
+08-01 21:11:56.540  1553  1553 W SessionManager: SessionManager.beginSession():53 Try to begin an already begun session [INPUT_SESSION], end it first
+08-01 21:11:56.542 29108 29108 I ViewInteraction: Performing 'type text(Group17)' action on view view.getId() is <2130903042/com.example.android.testing.espresso.BasicSample:id/editTextUserInput>
+08-01 21:11:56.545  1099  1099 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=539.5, y[0]=583.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=36396442, downTime=36396442, deviceId=-1, source=0x1002, displayId=0, eventId=-384570505 }
+08-01 21:11:56.587  1099  1099 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=539.5, y[0]=583.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=36396483, downTime=36396442, deviceId=-1, source=0x1002, displayId=0, eventId=-122273117 }
+08-01 21:11:56.589 29108 29108 I ImeTracker: com.example.android.testing.espresso.BasicSample:d7e41cec: onRequestShow at ORIGIN_CLIENT_SHOW_SOFT_INPUT reason SHOW_SOFT_INPUT
+08-01 21:11:56.589 29108 29108 D InputMethodManager: showSoftInput() view=android.widget.EditText{94c52cd VFED..CL. .F.P.... 44,302-1036,426 #7f030002 app:id/editTextUserInput aid=1073741824} flags=0 reason=SHOW_SOFT_INPUT
+08-01 21:11:56.591  1553  1553 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+08-01 21:11:56.592  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onStartInputView():1995 onStartInputView(EditorInfo{inputType=0x1(Normal) imeOptions=0x6 privateImeOptions=null actionName=DONE actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x3000 hintText=non-empty label=null packageName=com.example.android.testing.espresso.BasicSample fieldId=2130903042 fieldName=null extras=null}, false)
+08-01 21:11:56.592  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 2, unlocked = true
+08-01 21:11:56.592  1553  1553 W ModuleManager: ModuleManager.loadModule():450 Module erj is not available
+08-01 21:11:56.594  1553  1815 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+08-01 21:11:56.595  1553  1553 I KeyboardViewUtil: KeyboardViewUtil.getKeyboardHeightRatio():189 systemKeyboardHeightRatio:1.000000; userKeyboardHeightRatio:1.000000.
+08-01 21:11:56.596  1553  1553 I AndroidIME: AbstractIme.onActivate():86 LatinIme.onActivate() : EditorInfo = inputType=0x1(Normal) imeOptions=0x6 privateImeOptions=null actionName=DONE actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x3000 hintText=non-empty label=null packageName=com.example.android.testing.espresso.BasicSample fieldId=2130903042 fieldName=null extras=null, IncognitoMode = false, DeviceLocked = false
+08-01 21:11:56.596  1553  1553 I Delight5Facilitator: Delight5Facilitator.initializeForIme():777 initializeForIme() : Locale = [en_US], layout = qwerty
+08-01 21:11:56.596  1553  1553 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.cancelShutdown():55 cancelShutdown()
+08-01 21:11:56.597  1553  1553 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.syncLanguagePacks():67 syncLanguagePacks()
+08-01 21:11:56.597  1553  1553 I LatinIme: LatinIme.updateEnableInlineSuggestionsOnDecoderSideFlags():1003 inline flag updated to:false
+08-01 21:11:56.598  1553  1553 I KeyboardWrapper: KeyboardWrapper.consumeEvent():275 Skip consuming an event as current keyboard is deactivated (state=0, keyboard existence=true)
+08-01 21:11:56.599  1553  9821 I SpeechFactory: SpeechRecognitionFactory.maybeScheduleAutoPackDownloadForFallback():205 maybeScheduleAutoPackDownloadForFallback()
+08-01 21:11:56.600  1553  9821 I FallbackOnDeviceRecognitionProvider: FallbackOnDeviceRecognitionProvider.maybeScheduleAutoPackDownload():195 maybeScheduleAutoPackDownload() for language tag en-US
+08-01 21:11:56.600  1553  1553 I KeyboardViewUtil: KeyboardViewUtil.calculateMaxKeyboardBodyHeight():40 leave 344 height for app when screen height:2088, header height:121 and isFullscreenMode:false, so the max keyboard body height is:1623
+08-01 21:11:56.600  1553  1553 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+08-01 21:11:56.600  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3483 setKeyboardViewShown() : type = HEADER, shownType = SHOW_OPTIONAL
+08-01 21:11:56.601  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3530 setKeyboardViewShown() : shouldShow = true
+08-01 21:11:56.601  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3483 setKeyboardViewShown() : type = BODY, shownType = SHOW_MANDATORY
+08-01 21:11:56.601  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3530 setKeyboardViewShown() : shouldShow = true
+08-01 21:11:56.601  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3483 setKeyboardViewShown() : type = FLOATING_CANDIDATES, shownType = HIDE
+08-01 21:11:56.601  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3530 setKeyboardViewShown() : shouldShow = false
+08-01 21:11:56.602  1553  1553 I KeyboardViewUtil: KeyboardViewUtil.calculateMaxKeyboardBodyHeight():40 leave 344 height for app when screen height:2088, header height:121 and isFullscreenMode:false, so the max keyboard body height is:1623
+08-01 21:11:56.602  1553  1553 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+08-01 21:11:56.602  1553  1553 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+08-01 21:11:56.603  1553  1553 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+08-01 21:11:56.603  1553  1553 I KeyboardModeManager: KeyboardModeManager.setInputView():364 setInputView() : supportsOneHandedMode=true
+08-01 21:11:56.603  1553  1553 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():116 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+08-01 21:11:56.603  1553  1553 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():116 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+08-01 21:11:56.604  1553  1553 I KeyboardModeManager: KeyboardModeManager.setInputView():356 setInputView() : entry=hwn{languageTag=en-US, variant=qwerty, hasLocalizedResources=true, conditionCacheKey=_device=phone_device_size=default_enable_adaptive_text_editing=true_enable_inline_suggestions_on_client_side=false_enable_large_tablet_batch_1=false_enable_large_tablet_batch_2=false_enable_more_candidates_view_for_multilingual=false_enable_nav_redesign=false_enable_number_row=false_enable_preemptive_decode=true_enable_secondary_symbols=false_expressions=normal_four_or_more_letter_rows=false_keyboard_mode=normal_language=en-US_orientation=portrait_physical_keyboard=qwerty_show_secondary_digits=true_show_suggestions=true_split_with_duplicate_keys=true_variant=qwerty, imeDef.stringId=ime_english_united_states, imeDef.className=com.google.android.apps.inputmethod.libs.latin5.LatinIme, imeDef.languageTag=en-US}
+08-01 21:11:56.604  1553  1553 I VoiceImeExtension: VoiceImeExtension.shouldStartVoiceInputAutomatically():383 No private IME option set to start voice input.
+08-01 21:11:56.608 17268 17268 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+08-01 21:11:56.608 17268 17268 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+08-01 21:11:56.614 17268 17268 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+08-01 21:11:56.616  1553  1868 E OpenGLRenderer: Unable to match the desired swap behavior.
+08-01 21:11:56.628  1553  1553 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+08-01 21:11:56.628  1553  1553 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+08-01 21:11:56.628  1553  1553 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():116 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+08-01 21:11:56.629  1553  1950 I Delight5Decoder: Delight5DecoderWrapper.setKeyboardLayout():457 setKeyboardLayout()
+08-01 21:11:56.633 17268 17268 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+08-01 21:11:56.633 17268 17268 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+08-01 21:11:56.633 17268 17268 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+08-01 21:11:56.635 29108 29108 D InsetsController: show(ime(), fromIme=true)
+08-01 21:11:56.799  1553  1553 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():159 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+08-01 21:11:56.810   842   916 D EGL_emulation: app_time_stats: avg=166.50ms min=14.15ms max=1367.06ms count=12
+08-01 21:11:56.840 29108 29108 I ImeTracker: com.example.android.testing.espresso.BasicSample:d7e41cec: onShown
+08-01 21:11:56.856 29108 29108 W FrameTracker: Missed SF frame:PREDICTION_ERROR, 1869820, 0, CUJ=J<IME_INSETS_ANIMATION::0@0@com.example.android.testing.espresso.BasicSample>
+08-01 21:11:56.859 29108 29108 D UiControllerImpl: Injecting string: "Group17"
+08-01 21:11:56.911  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3483 setKeyboardViewShown() : type = HEADER, shownType = SHOW_MANDATORY_WITH_ANIMATION
+08-01 21:11:56.913  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3530 setKeyboardViewShown() : shouldShow = true
+08-01 21:11:56.961  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3483 setKeyboardViewShown() : type = HEADER, shownType = SHOW_MANDATORY_WITH_ANIMATION
+08-01 21:11:56.961  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3530 setKeyboardViewShown() : shouldShow = true
+08-01 21:11:56.981  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3483 setKeyboardViewShown() : type = HEADER, shownType = SHOW_MANDATORY_WITH_ANIMATION
+08-01 21:11:56.982  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3530 setKeyboardViewShown() : shouldShow = true
+08-01 21:11:57.000  1553  1950 I native  : I0000 00:00:1722561117.000842    1950 input-context-store.cc:255] Ignoring stale client request for FetchSuggestions
+08-01 21:11:57.012  1553  1553 W InputContextProxyV4: InputContextProxyV4.applyClientDiffInternal():897 Ignore [FetchSuggestions] diff due to stale request: 1481<1483, inputStateId=1413, lastInputStateId=1413
+08-01 21:11:57.012  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3483 setKeyboardViewShown() : type = HEADER, shownType = SHOW_MANDATORY_WITH_ANIMATION
+08-01 21:11:57.012  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3530 setKeyboardViewShown() : shouldShow = true
+08-01 21:11:57.029  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3483 setKeyboardViewShown() : type = HEADER, shownType = SHOW_MANDATORY_WITH_ANIMATION
+08-01 21:11:57.030  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3530 setKeyboardViewShown() : shouldShow = true
+08-01 21:11:57.032 29108 29108 I ViewInteraction: Performing 'close keyboard' action on view view.getId() is <2130903042/com.example.android.testing.espresso.BasicSample:id/editTextUserInput>
+08-01 21:11:57.034 29108 29108 D IdlingRegistry: Registering idling resources: [androidx.test.espresso.action.CloseKeyboardAction$CloseKeyboardIdlingResult@fe3860a]
+08-01 21:11:57.034 29108 29108 I ImeTracker: com.example.android.testing.espresso.BasicSample:ab273212: onRequestHide at ORIGIN_CLIENT_HIDE_SOFT_INPUT reason HIDE_SOFT_INPUT
+08-01 21:11:57.036  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onFinishInputView():2241
+08-01 21:11:57.036  1553  1553 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():159 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+08-01 21:11:57.037  1553  1553 I InputBundle: InputBundle.consumeEvent():923 Skip consuming an event as keyboard status is 0
+08-01 21:11:57.040  1553  1553 I KeyboardWrapper: KeyboardWrapper.consumeEvent():275 Skip consuming an event as current keyboard is deactivated (state=0, keyboard existence=true)
+08-01 21:11:57.041  1553  1553 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.shutdown():77 shutdown()
+08-01 21:11:57.041  1553  1553 I AndroidIME: AbstractIme.onDeactivate():207 LatinIme.onDeactivate()
+08-01 21:11:57.049 29108 29108 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=falsecallback=ImeCallback=ImeOnBackInvokedCallback@60349402 Callback=android.window.IOnBackInvokedCallback$Stub$Proxy@c3344f1
+08-01 21:11:57.051  1553  4692 E native  : E0000 00:00:1722561117.051252    4692 keyboard.cc:27] Cannot create a keyboard with 0 valid keys
+08-01 21:11:57.051  1553  1950 W Delight5Decoder: Delight5DecoderWrapper.shouldAbandonMessage():1983 Detected old [FetchSuggestions] request in background: 1487<1488
+08-01 21:11:57.261 29108 29108 I ImeTracker: com.example.android.testing.espresso.BasicSample:962032f0: onRequestHide at ORIGIN_CLIENT_HIDE_SOFT_INPUT reason HIDE_SOFT_INPUT_BY_INSETS_API
+08-01 21:11:57.262   519  1084 I ImeTracker: com.example.android.testing.espresso.BasicSample:962032f0: onCancelled at PHASE_SERVER_SHOULD_HIDE
+08-01 21:11:57.262 29108 29108 I ImeTracker: com.example.android.testing.espresso.BasicSample:ab273212: onHidden
+08-01 21:11:57.273 29108 29108 W FrameTracker: Missed SF frame:SURFACE_FLINGER_SCHEDULING, 1870202, 0, CUJ=J<IME_INSETS_ANIMATION::1@0@com.example.android.testing.espresso.BasicSample>
+08-01 21:11:57.352 29108 29108 D IdlingRegistry: Unregistering idling resources: [androidx.test.espresso.action.CloseKeyboardAction$CloseKeyboardIdlingResult@fe3860a]
+08-01 21:11:57.354 29108 29108 I ViewInteraction: Performing 'single click' action on view view.getId() is <2130903041/com.example.android.testing.espresso.BasicSample:id/changeTextBt>
+08-01 21:11:57.360  1099  1099 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=539.5, y[0]=711.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=36397254, downTime=36397254, deviceId=-1, source=0x1002, displayId=0, eventId=-586108078 }
+08-01 21:11:57.378 29108 29132 D EGL_emulation: app_time_stats: avg=47.22ms min=10.20ms max=316.97ms count=24
+08-01 21:11:57.398  1099  1099 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=539.5, y[0]=711.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=36397294, downTime=36397254, deviceId=-1, source=0x1002, displayId=0, eventId=-273340528 }
+08-01 21:11:57.400   356  8340 D audioserver: FGS Logger Transaction failed
+08-01 21:11:57.400   356  8340 D audioserver: -129
+08-01 21:11:57.637   356   459 D audioserver: FGS Logger Transaction failed
+08-01 21:11:57.638   356   459 D audioserver: -129
+08-01 21:11:57.645 29108 29108 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Group17"}' assertion on view view.getId() is <2130903044/com.example.android.testing.espresso.BasicSample:id/textToBeChanged>
+08-01 21:11:57.647 29108 29108 I ViewInteraction: Performing 'replace text()' action on view view.getId() is <2130903042/com.example.android.testing.espresso.BasicSample:id/editTextUserInput>
+08-01 21:11:57.661  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1877 onStartInput(EditorInfo{inputType=0x1(Normal) imeOptions=0x6 privateImeOptions=null actionName=DONE actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x3000 hintText=non-empty label=null packageName=com.example.android.testing.espresso.BasicSample fieldId=2130903042 fieldName=null extras=null}, true)
+08-01 21:11:57.661  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():4008 ShouldHideHeaderOnInitialState = false
+08-01 21:11:57.662  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 2, unlocked = true
+08-01 21:11:57.662  1553  1553 W SessionManager: SessionManager.beginSession():53 Try to begin an already begun session [INPUT_SESSION], end it first
+08-01 21:11:57.663 29108 29108 I ViewInteraction: Performing 'type text(Group17)' action on view view.getId() is <2130903042/com.example.android.testing.espresso.BasicSample:id/editTextUserInput>
+08-01 21:11:57.666  1099  1099 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=539.5, y[0]=583.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=36397563, downTime=36397563, deviceId=-1, source=0x1002, displayId=0, eventId=-541477097 }
+08-01 21:11:57.710  1099  1099 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=539.5, y[0]=583.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=36397607, downTime=36397563, deviceId=-1, source=0x1002, displayId=0, eventId=-661681913 }
+08-01 21:11:57.712 29108 29108 I ImeTracker: com.example.android.testing.espresso.BasicSample:169c6fcc: onRequestShow at ORIGIN_CLIENT_SHOW_SOFT_INPUT reason SHOW_SOFT_INPUT
+08-01 21:11:57.712 29108 29108 D InputMethodManager: showSoftInput() view=android.widget.EditText{94c52cd VFED..CL. .F.P.... 44,302-1036,426 #7f030002 app:id/editTextUserInput aid=1073741824} flags=0 reason=SHOW_SOFT_INPUT
+08-01 21:11:57.714  1553  1553 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+08-01 21:11:57.714  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onStartInputView():1995 onStartInputView(EditorInfo{inputType=0x1(Normal) imeOptions=0x6 privateImeOptions=null actionName=DONE actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x3000 hintText=non-empty label=null packageName=com.example.android.testing.espresso.BasicSample fieldId=2130903042 fieldName=null extras=null}, false)
+08-01 21:11:57.714  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 2, unlocked = true
+08-01 21:11:57.715  1553  1553 W ModuleManager: ModuleManager.loadModule():450 Module erj is not available
+08-01 21:11:57.715  1553  1815 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+08-01 21:11:57.716  1553  1553 I KeyboardViewUtil: KeyboardViewUtil.getKeyboardHeightRatio():189 systemKeyboardHeightRatio:1.000000; userKeyboardHeightRatio:1.000000.
+08-01 21:11:57.716  1553  1553 I AndroidIME: AbstractIme.onActivate():86 LatinIme.onActivate() : EditorInfo = inputType=0x1(Normal) imeOptions=0x6 privateImeOptions=null actionName=DONE actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x3000 hintText=non-empty label=null packageName=com.example.android.testing.espresso.BasicSample fieldId=2130903042 fieldName=null extras=null, IncognitoMode = false, DeviceLocked = false
+08-01 21:11:57.717  1553  1553 I Delight5Facilitator: Delight5Facilitator.initializeForIme():777 initializeForIme() : Locale = [en_US], layout = qwerty
+08-01 21:11:57.717  1553  1553 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.cancelShutdown():55 cancelShutdown()
+08-01 21:11:57.718  1553  1553 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.syncLanguagePacks():67 syncLanguagePacks()
+08-01 21:11:57.718  1553  9821 I SpeechFactory: SpeechRecognitionFactory.maybeScheduleAutoPackDownloadForFallback():205 maybeScheduleAutoPackDownloadForFallback()
+08-01 21:11:57.718  1553  1553 I LatinIme: LatinIme.updateEnableInlineSuggestionsOnDecoderSideFlags():1003 inline flag updated to:false
+08-01 21:11:57.719  1553  1553 I KeyboardWrapper: KeyboardWrapper.consumeEvent():275 Skip consuming an event as current keyboard is deactivated (state=0, keyboard existence=true)
+08-01 21:11:57.720  1553  1553 I KeyboardViewUtil: KeyboardViewUtil.calculateMaxKeyboardBodyHeight():40 leave 344 height for app when screen height:2088, header height:121 and isFullscreenMode:false, so the max keyboard body height is:1623
+08-01 21:11:57.720  1553  1553 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+08-01 21:11:57.721  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3483 setKeyboardViewShown() : type = HEADER, shownType = SHOW_OPTIONAL
+08-01 21:11:57.721  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3530 setKeyboardViewShown() : shouldShow = true
+08-01 21:11:57.721  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3483 setKeyboardViewShown() : type = BODY, shownType = SHOW_MANDATORY
+08-01 21:11:57.725  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3530 setKeyboardViewShown() : shouldShow = true
+08-01 21:11:57.726  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3483 setKeyboardViewShown() : type = FLOATING_CANDIDATES, shownType = HIDE
+08-01 21:11:57.726  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3530 setKeyboardViewShown() : shouldShow = false
+08-01 21:11:57.727  1553  1553 I KeyboardViewUtil: KeyboardViewUtil.calculateMaxKeyboardBodyHeight():40 leave 344 height for app when screen height:2088, header height:121 and isFullscreenMode:false, so the max keyboard body height is:1623
+08-01 21:11:57.727  1553  1553 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+08-01 21:11:57.728  1553  1553 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+08-01 21:11:57.728  1553  1553 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+08-01 21:11:57.728  1553  1553 I KeyboardModeManager: KeyboardModeManager.setInputView():364 setInputView() : supportsOneHandedMode=true
+08-01 21:11:57.728  1553  1553 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():116 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+08-01 21:11:57.728  1553  1553 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():116 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+08-01 21:11:57.729  1553  1553 I KeyboardModeManager: KeyboardModeManager.setInputView():356 setInputView() : entry=hwn{languageTag=en-US, variant=qwerty, hasLocalizedResources=true, conditionCacheKey=_device=phone_device_size=default_enable_adaptive_text_editing=true_enable_inline_suggestions_on_client_side=false_enable_large_tablet_batch_1=false_enable_large_tablet_batch_2=false_enable_more_candidates_view_for_multilingual=false_enable_nav_redesign=false_enable_number_row=false_enable_preemptive_decode=true_enable_secondary_symbols=false_expressions=normal_four_or_more_letter_rows=false_keyboard_mode=normal_language=en-US_orientation=portrait_physical_keyboard=qwerty_show_secondary_digits=true_show_suggestions=true_split_with_duplicate_keys=true_variant=qwerty, imeDef.stringId=ime_english_united_states, imeDef.className=com.google.android.apps.inputmethod.libs.latin5.LatinIme, imeDef.languageTag=en-US}
+08-01 21:11:57.729  1553  1553 I VoiceImeExtension: VoiceImeExtension.shouldStartVoiceInputAutomatically():383 No private IME option set to start voice input.
+08-01 21:11:57.732 17268 17268 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+08-01 21:11:57.732 17268 17268 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+08-01 21:11:57.733 17268 17268 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+08-01 21:11:57.734  1553  9821 I FallbackOnDeviceRecognitionProvider: FallbackOnDeviceRecognitionProvider.maybeScheduleAutoPackDownload():195 maybeScheduleAutoPackDownload() for language tag en-US
+08-01 21:11:57.743  1553  1868 E OpenGLRenderer: Unable to match the desired swap behavior.
+08-01 21:11:57.750  1553  1553 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+08-01 21:11:57.751  1553  1553 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+08-01 21:11:57.751  1553  1553 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():116 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+08-01 21:11:57.751  1553  1950 I Delight5Decoder: Delight5DecoderWrapper.setKeyboardLayout():457 setKeyboardLayout()
+08-01 21:11:57.754 17268 17268 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+08-01 21:11:57.754 17268 17268 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+08-01 21:11:57.761 17268 17268 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+08-01 21:11:57.778 29108 29108 D InsetsController: show(ime(), fromIme=true)
+08-01 21:11:57.825   842   916 D EGL_emulation: app_time_stats: avg=17.20ms min=8.63ms max=33.85ms count=59
+08-01 21:11:57.925  1553  1553 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():159 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+08-01 21:11:57.991 29108 29108 I ImeTracker: com.example.android.testing.espresso.BasicSample:169c6fcc: onShown
+08-01 21:11:58.008 29108 29108 W FrameTracker: Missed SF frame:PREDICTION_ERROR, 1870988, 0, CUJ=J<IME_INSETS_ANIMATION::0@0@com.example.android.testing.espresso.BasicSample>
+08-01 21:11:58.008 29108 29108 W FrameTracker: Missed SF frame:PREDICTION_ERROR, 1871024, 0, CUJ=J<IME_INSETS_ANIMATION::0@0@com.example.android.testing.espresso.BasicSample>
+08-01 21:11:58.008 29108 29108 W FrameTracker: Missed SF frame:PREDICTION_ERROR, 1871046, 0, CUJ=J<IME_INSETS_ANIMATION::0@0@com.example.android.testing.espresso.BasicSample>
+08-01 21:11:58.008 29108 29108 W FrameTracker: Missed SF frame:PREDICTION_ERROR, 1871068, 0, CUJ=J<IME_INSETS_ANIMATION::0@0@com.example.android.testing.espresso.BasicSample>
+08-01 21:11:58.009 29108 29177 V PerfettoTrigger: Not triggering com.android.telemetry.interaction-jank-monitor-69 - not enough time since last trigger
+08-01 21:11:58.009 29108 29108 D UiControllerImpl: Injecting string: "Group17"
+08-01 21:11:58.062  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3483 setKeyboardViewShown() : type = HEADER, shownType = SHOW_MANDATORY_WITH_ANIMATION
+08-01 21:11:58.063  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3530 setKeyboardViewShown() : shouldShow = true
+08-01 21:11:58.112  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3483 setKeyboardViewShown() : type = HEADER, shownType = SHOW_MANDATORY_WITH_ANIMATION
+08-01 21:11:58.112  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3530 setKeyboardViewShown() : shouldShow = true
+08-01 21:11:58.129  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3483 setKeyboardViewShown() : type = HEADER, shownType = SHOW_MANDATORY_WITH_ANIMATION
+08-01 21:11:58.130  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3530 setKeyboardViewShown() : shouldShow = true
+08-01 21:11:58.146  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3483 setKeyboardViewShown() : type = HEADER, shownType = SHOW_MANDATORY_WITH_ANIMATION
+08-01 21:11:58.147  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3530 setKeyboardViewShown() : shouldShow = true
+08-01 21:11:58.163  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3483 setKeyboardViewShown() : type = HEADER, shownType = SHOW_MANDATORY_WITH_ANIMATION
+08-01 21:11:58.163  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3530 setKeyboardViewShown() : shouldShow = true
+08-01 21:11:58.180  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3483 setKeyboardViewShown() : type = HEADER, shownType = SHOW_MANDATORY_WITH_ANIMATION
+08-01 21:11:58.180  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3530 setKeyboardViewShown() : shouldShow = true
+08-01 21:11:58.182 29108 29108 I ViewInteraction: Performing 'close keyboard' action on view view.getId() is <2130903042/com.example.android.testing.espresso.BasicSample:id/editTextUserInput>
+08-01 21:11:58.184 29108 29108 D IdlingRegistry: Registering idling resources: [androidx.test.espresso.action.CloseKeyboardAction$CloseKeyboardIdlingResult@bb935dc]
+08-01 21:11:58.185 29108 29108 I ImeTracker: com.example.android.testing.espresso.BasicSample:f95adc9f: onRequestHide at ORIGIN_CLIENT_HIDE_SOFT_INPUT reason HIDE_SOFT_INPUT
+08-01 21:11:58.186  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onFinishInputView():2241
+08-01 21:11:58.187  1553  1553 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():159 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+08-01 21:11:58.187  1553  1553 I InputBundle: InputBundle.consumeEvent():923 Skip consuming an event as keyboard status is 0
+08-01 21:11:58.190  1553  1553 I KeyboardWrapper: KeyboardWrapper.consumeEvent():275 Skip consuming an event as current keyboard is deactivated (state=0, keyboard existence=true)
+08-01 21:11:58.191  1553  1553 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.shutdown():77 shutdown()
+08-01 21:11:58.191  1553  1553 I AndroidIME: AbstractIme.onDeactivate():207 LatinIme.onDeactivate()
+08-01 21:11:58.201 29108 29108 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=falsecallback=ImeCallback=ImeOnBackInvokedCallback@60349402 Callback=android.window.IOnBackInvokedCallback$Stub$Proxy@f0cc6b
+08-01 21:11:58.202  1553  1815 I NebulaeTrainingCacheMetricsProcessor: NebulaeTrainingCacheMetricsProcessor.processEndSession():447 No input action collection in this session, skip logging.
+08-01 21:11:58.203  1553  4692 E native  : E0000 00:00:1722561118.203418    4692 keyboard.cc:27] Cannot create a keyboard with 0 valid keys
+08-01 21:11:58.203  1553  1950 W Delight5Decoder: Delight5DecoderWrapper.shouldAbandonMessage():1983 Detected old [FetchSuggestions] request in background: 1505<1506
+08-01 21:11:58.246   842   842 D StatusBarIconController: ignoring old pipeline callbacks, because the new mobile icons are enabled
+08-01 21:11:58.414 29108 29108 I ImeTracker: com.example.android.testing.espresso.BasicSample:8bfc0104: onRequestHide at ORIGIN_CLIENT_HIDE_SOFT_INPUT reason HIDE_SOFT_INPUT_BY_INSETS_API
+08-01 21:11:58.415   519  1661 I ImeTracker: com.example.android.testing.espresso.BasicSample:8bfc0104: onCancelled at PHASE_SERVER_SHOULD_HIDE
+08-01 21:11:58.416 29108 29108 I ImeTracker: com.example.android.testing.espresso.BasicSample:f95adc9f: onHidden
+08-01 21:11:58.504 29108 29108 D IdlingRegistry: Unregistering idling resources: [androidx.test.espresso.action.CloseKeyboardAction$CloseKeyboardIdlingResult@bb935dc]
+08-01 21:11:58.507 29108 29108 I ViewInteraction: Performing 'single click' action on view view.getId() is <2130903040/com.example.android.testing.espresso.BasicSample:id/activityChangeTextBtn>
+08-01 21:11:58.513  1099  1099 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=539.5, y[0]=843.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=36398408, downTime=36398408, deviceId=-1, source=0x1002, displayId=0, eventId=-32820834 }
+08-01 21:11:58.529 29108 29132 D EGL_emulation: app_time_stats: avg=21.91ms min=0.61ms max=283.49ms count=51
+08-01 21:11:58.552  1099  1099 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=539.5, y[0]=843.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=36398448, downTime=36398408, deviceId=-1, source=0x1002, displayId=0, eventId=-162904820 }
+08-01 21:11:58.554   356  8306 D audioserver: FGS Logger Transaction failed
+08-01 21:11:58.554   356  8306 D audioserver: -129
+08-01 21:11:58.565 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.MainActivity@7ddb841 in: PAUSED
+08-01 21:11:58.565 29108 29108 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.android.testing.espresso.BasicSample.MainActivity@7ddb841
+08-01 21:11:58.571   359   359 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+08-01 21:11:58.579 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.ShowTextActivity@d0d53e0 in: PRE_ON_CREATE
+08-01 21:11:58.580 29108 29108 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.android.testing.espresso.BasicSample/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.android.testing.espresso.BasicSample/.ShowTextActivity (has extras) }, activity=com.example.android.testing.espresso.BasicSample.ShowTextActivity@d0d53e0
+08-01 21:11:58.584 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.ShowTextActivity@d0d53e0 in: CREATED
+08-01 21:11:58.584 29108 29108 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.android.testing.espresso.BasicSample/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.android.testing.espresso.BasicSample/.ShowTextActivity (has extras) }, activity=com.example.android.testing.espresso.BasicSample.ShowTextActivity@d0d53e0
+08-01 21:11:58.585 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.ShowTextActivity@d0d53e0 in: STARTED
+08-01 21:11:58.585 29108 29108 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.android.testing.espresso.BasicSample/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.android.testing.espresso.BasicSample/.ShowTextActivity (has extras) }, activity=com.example.android.testing.espresso.BasicSample.ShowTextActivity@d0d53e0
+08-01 21:11:58.586 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.ShowTextActivity@d0d53e0 in: RESUMED
+08-01 21:11:58.586 29108 29108 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.android.testing.espresso.BasicSample/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.android.testing.espresso.BasicSample/.ShowTextActivity (has extras) }, activity=com.example.android.testing.espresso.BasicSample.ShowTextActivity@d0d53e0
+08-01 21:11:58.602 29108 29132 E OpenGLRenderer: Unable to match the desired swap behavior.
+08-01 21:11:58.616   519   538 I ActivityTaskManager: Displayed com.example.android.testing.espresso.BasicSample/.ShowTextActivity for user 0: +55ms
+08-01 21:11:58.771   356   459 D audioserver: FGS Logger Transaction failed
+08-01 21:11:58.773   356   459 D audioserver: -129
+08-01 21:11:58.807   519  1661 I ImeTracker: com.example.android.testing.espresso.BasicSample:934e2e25: onRequestHide at ORIGIN_SERVER_HIDE_INPUT reason HIDE_UNSPECIFIED_WINDOW
+08-01 21:11:58.808   519  1661 I ImeTracker: com.example.android.testing.espresso.BasicSample:934e2e25: onCancelled at PHASE_SERVER_SHOULD_HIDE
+08-01 21:11:58.810  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3227
+08-01 21:11:58.811  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 0, unlocked = true
+08-01 21:11:58.812  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1877 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.android.testing.espresso.BasicSample fieldId=0 fieldName=null extras=null}, false)
+08-01 21:11:58.812  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():4008 ShouldHideHeaderOnInitialState = false
+08-01 21:11:58.812  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 2, unlocked = true
+08-01 21:11:58.844   842   916 D EGL_emulation: app_time_stats: avg=13.61ms min=0.77ms max=34.69ms count=59
+08-01 21:11:58.848 29108 29108 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Group17"}' assertion on view view.getId() is <2130903043/com.example.android.testing.espresso.BasicSample:id/show_text_view>
+08-01 21:11:58.850 29108 29108 I ViewInteraction: Performing 'send keyCode: 4, metaState: 0 key event' action on view view.getRootView() to equal view
+08-01 21:11:58.854  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onKeyDown():2444 Received KEYCODE_BACK. isAllViewsInvisible=false
+08-01 21:11:58.862 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.ShowTextActivity@d0d53e0 in: PAUSED
+08-01 21:11:58.863 29108 29108 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.android.testing.espresso.BasicSample/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.android.testing.espresso.BasicSample/.ShowTextActivity (has extras) }, activity=com.example.android.testing.espresso.BasicSample.ShowTextActivity@d0d53e0
+08-01 21:11:58.866 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.MainActivity@7ddb841 in: RESUMED
+08-01 21:11:58.866 29108 29108 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.android.testing.espresso.BasicSample.MainActivity@7ddb841
+08-01 21:11:58.894   519   602 I ImeTracker: com.example.android.testing.espresso.BasicSample:d7b11a14: onRequestHide at ORIGIN_SERVER_HIDE_INPUT reason HIDE_UNSPECIFIED_WINDOW
+08-01 21:11:58.894   519   602 I ImeTracker: com.example.android.testing.espresso.BasicSample:d7b11a14: onCancelled at PHASE_SERVER_SHOULD_HIDE
+08-01 21:11:58.895  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3227
+08-01 21:11:58.896  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 0, unlocked = true
+08-01 21:11:58.896  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1877 onStartInput(EditorInfo{inputType=0x1(Normal) imeOptions=0x6 privateImeOptions=null actionName=DONE actionLabel=null actionId=0 initialSelStart=7 initialSelEnd=7 initialCapsMode=0x0 hintText=non-empty label=null packageName=com.example.android.testing.espresso.BasicSample fieldId=2130903042 fieldName=null extras=null}, false)
+08-01 21:11:58.896  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():4008 ShouldHideHeaderOnInitialState = false
+08-01 21:11:58.896  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 2, unlocked = true
+08-01 21:11:59.475 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.ShowTextActivity@d0d53e0 in: STOPPED
+08-01 21:11:59.476 29108 29108 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.android.testing.espresso.BasicSample/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.android.testing.espresso.BasicSample/.ShowTextActivity (has extras) }, activity=com.example.android.testing.espresso.BasicSample.ShowTextActivity@d0d53e0
+08-01 21:11:59.476 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.ShowTextActivity@d0d53e0 in: DESTROYED
+08-01 21:11:59.477 29108 29108 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.android.testing.espresso.BasicSample/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.android.testing.espresso.BasicSample/.ShowTextActivity (has extras) }, activity=com.example.android.testing.espresso.BasicSample.ShowTextActivity@d0d53e0
+08-01 21:11:59.477 29108 29108 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=falsecallback=android.view.ViewRootImpl$$ExternalSyntheticLambda17@e489a36
+08-01 21:11:59.478   519   602 W InputManager-JNI: Input channel object '8582c39 com.example.android.testing.espresso.BasicSample/com.example.android.testing.espresso.BasicSample.ShowTextActivity (client)' was disposed without first being removed with the input manager!
+08-01 21:11:59.492 29108 29108 W KeyEventActionBase: Back was pressed and left the application in an inconsistent state even after 600ms.
+08-01 21:11:59.494 29108 29108 I ViewInteraction: Performing 'replace text()' action on view view.getId() is <2130903042/com.example.android.testing.espresso.BasicSample:id/editTextUserInput>
+08-01 21:11:59.508  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1877 onStartInput(EditorInfo{inputType=0x1(Normal) imeOptions=0x6 privateImeOptions=null actionName=DONE actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x3000 hintText=non-empty label=null packageName=com.example.android.testing.espresso.BasicSample fieldId=2130903042 fieldName=null extras=null}, true)
+08-01 21:11:59.508  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():4008 ShouldHideHeaderOnInitialState = false
+08-01 21:11:59.508  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 2, unlocked = true
+08-01 21:11:59.509  1553  1553 W SessionManager: SessionManager.beginSession():53 Try to begin an already begun session [INPUT_SESSION], end it first
+08-01 21:11:59.515   842   912 D SplashScreenView: Build android.window.SplashScreenView{b71c54b V.E...... ......ID 0,0-0,0}
+08-01 21:11:59.515   842   912 D SplashScreenView: Icon: view: null drawable: null size: 0
+08-01 21:11:59.515   842   912 D SplashScreenView: Branding: view: android.view.View{c900b28 G.ED..... ......I. 0,0-0,0 #10204ef android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+08-01 21:11:59.520 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.MainActivity@7ddb841 in: PAUSED
+08-01 21:11:59.520 29108 29108 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.android.testing.espresso.BasicSample.MainActivity@7ddb841
+08-01 21:11:59.538   359   359 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+08-01 21:11:59.545   842   916 E OpenGLRenderer: Unable to match the desired swap behavior.
+08-01 21:11:59.553 29144 29162 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+08-01 21:11:59.553 29144 29162 W OpenGLRenderer: Failed to initialize 101010-2 format, error = EGL_SUCCESS
+08-01 21:11:59.559 29108 29132 D EGL_emulation: app_time_stats: avg=18.71ms min=12.58ms max=107.13ms count=55
+08-01 21:11:59.560 29144 29162 E OpenGLRenderer: Unable to match the desired swap behavior.
+08-01 21:11:59.596 27998 28014 E OpenGLRenderer: Unable to match the desired swap behavior.
+08-01 21:11:59.644   519  1079 I ImeTracker: jlin2.examples.localtesting:ef39d971: onRequestHide at ORIGIN_SERVER_HIDE_INPUT reason HIDE_UNSPECIFIED_WINDOW
+08-01 21:11:59.645   519  1079 I ImeTracker: jlin2.examples.localtesting:ef39d971: onCancelled at PHASE_SERVER_SHOULD_HIDE
+08-01 21:11:59.646  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3227
+08-01 21:11:59.646  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 0, unlocked = true
+08-01 21:11:59.647  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1877 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=jlin2.examples.localtesting fieldId=0 fieldName=null extras=null}, false)
+08-01 21:11:59.647  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():4008 ShouldHideHeaderOnInitialState = false
+08-01 21:11:59.647  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 2, unlocked = true
+08-01 21:11:59.912   842   916 D EGL_emulation: app_time_stats: avg=22.84ms min=0.84ms max=103.38ms count=39
+08-01 21:11:59.928   842   911 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=falsecallback=android.view.ViewRootImpl$$ExternalSyntheticLambda17@c648e72
+08-01 21:11:59.928   519  1079 W InputManager-JNI: Input channel object 'f7f5dbf Splash Screen com.example.android.testing.espresso.BasicSample.test (client)' was disposed without first being removed with the input manager!
+08-01 21:11:59.978   842   911 W FrameTracker: Missing SF jank callback for vsyncId: 1873999, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+08-01 21:12:00.004  1592  2022 I AiAiEcho: Predicting[0]:
+08-01 21:12:00.008  1592  2022 I AiAiEcho: EchoTargets:
+08-01 21:12:00.008  1592  2022 I AiAiEcho: Filtered by AiAi flag check:
+08-01 21:12:00.008  1592  2022 I AiAiEcho: Ranked targets strategy: SORT, count: 0, ranking metadata:
+08-01 21:12:00.009  1592  2022 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface lockscreen with targets# 0 (types=[])
+08-01 21:12:00.010   842   842 W PageIndicator: Total number of pages invalid: 0. Assuming 1 page.
+08-01 21:12:00.044   842   916 D EGL_emulation: app_time_stats: avg=446.18ms min=2.86ms max=8130.54ms count=19
+08-01 21:12:00.149 29144 29144 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=falsecallback=android.view.ViewRootImpl$$ExternalSyntheticLambda17@c77c890
+08-01 21:12:00.150   519   920 W InputManager-JNI: Input channel object '51a24b6 com.example.android.testing.espresso.BasicSample.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (client)' was disposed without first being removed with the input manager!
+08-01 21:12:00.167 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.MainActivity@7ddb841 in: STOPPED
+08-01 21:12:00.168 29108 29108 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.android.testing.espresso.BasicSample.MainActivity@7ddb841
+08-01 21:12:00.169 29108 29108 D AutofillManager: onActivityFinishing(): calling cancelLocked()
+08-01 21:12:00.169 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.MainActivity@7ddb841 in: DESTROYED
+08-01 21:12:00.169 29108 29108 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+08-01 21:12:00.170 29108 29129 I TestRunner: finished: validateEditText(com.example.android.testing.espresso.BasicSample.MainActivityTest)

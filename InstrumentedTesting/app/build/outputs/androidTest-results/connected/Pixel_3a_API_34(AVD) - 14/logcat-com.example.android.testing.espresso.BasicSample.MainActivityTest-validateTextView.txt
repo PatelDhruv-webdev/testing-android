@@ -1,0 +1,94 @@
+08-01 21:11:50.792 29108 29129 I TestRunner: started: validateTextView(com.example.android.testing.espresso.BasicSample.MainActivityTest)
+08-01 21:11:50.794 29108 29129 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+08-01 21:11:50.814   842   912 D SplashScreenView: Build android.window.SplashScreenView{fdb95d V.E...... ......ID 0,0-0,0}
+08-01 21:11:50.814   842   912 D SplashScreenView: Icon: view: null drawable: null size: 0
+08-01 21:11:50.814   842   912 D SplashScreenView: Branding: view: android.view.View{57072d2 G.ED..... ......I. 0,0-0,0 #10204ef android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+08-01 21:11:50.828   842   916 E OpenGLRenderer: Unable to match the desired swap behavior.
+08-01 21:11:50.838   359   359 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+08-01 21:11:50.851 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.MainActivity@3d72278 in: PRE_ON_CREATE
+08-01 21:11:50.851 29108 29108 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+08-01 21:11:50.879 29108 29108 D CompatibilityChangeReporter: Compat change id reported: 210923482; UID 10193; state: DISABLED
+08-01 21:11:50.879 29108 29108 D CompatibilityChangeReporter: Compat change id reported: 37756858; UID 10193; state: ENABLED
+08-01 21:11:50.883 27998 28014 D EGL_emulation: app_time_stats: avg=153.59ms min=14.98ms max=2208.17ms count=16
+08-01 21:11:50.895 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.MainActivity@3d72278 in: CREATED
+08-01 21:11:50.896 29108 29108 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.android.testing.espresso.BasicSample.MainActivity@3d72278
+08-01 21:11:50.896 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.MainActivity@3d72278 in: STARTED
+08-01 21:11:50.896 29108 29108 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.android.testing.espresso.BasicSample.MainActivity@3d72278
+08-01 21:11:50.898 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.MainActivity@3d72278 in: RESUMED
+08-01 21:11:50.898 29108 29108 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.android.testing.espresso.BasicSample.MainActivity@3d72278
+08-01 21:11:50.899 29108 29108 D CompatibilityChangeReporter: Compat change id reported: 237531167; UID 10193; state: DISABLED
+08-01 21:11:50.900 29108 29108 W OpenGLRenderer: Unknown dataspace 0
+08-01 21:11:50.904 29108 29134 D libEGL  : loaded /vendor/lib64/egl/libEGL_emulation.so
+08-01 21:11:50.918 29108 29108 D AutofillManager: notifyViewEnteredForFillDialog:1073741824
+08-01 21:11:50.919 29108 29134 D libEGL  : loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+08-01 21:11:50.920 29108 29134 D libEGL  : loaded /vendor/lib64/egl/libGLESv2_emulation.so
+08-01 21:11:50.935 29108 29132 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+08-01 21:11:50.935 29108 29132 W OpenGLRenderer: Failed to initialize 101010-2 format, error = EGL_SUCCESS
+08-01 21:11:50.944   127   127 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+08-01 21:11:50.944 29108 29132 I Gralloc4: mapper 4.x is not supported
+08-01 21:11:50.948 29108 29132 E OpenGLRenderer: Unable to match the desired swap behavior.
+08-01 21:11:50.995   519   538 W ziparchive: Unable to open '/data/app/~~xoqinH8L5liny3sVeTAOoQ==/com.example.android.testing.espresso.BasicSample-q_i0OuZyk4Y_1gwYud2mXw==/base.dm': No such file or directory
+08-01 21:11:50.995   519   538 I ActivityTaskManager: Displayed com.example.android.testing.espresso.BasicSample/.MainActivity for user 0: +197ms
+08-01 21:11:51.012   519  1084 I ImeTracker: com.example.android.testing.espresso.BasicSample:1dffb483: onRequestHide at ORIGIN_SERVER_HIDE_INPUT reason HIDE_UNSPECIFIED_WINDOW
+08-01 21:11:51.012   519  1084 I ImeTracker: com.example.android.testing.espresso.BasicSample:1dffb483: onCancelled at PHASE_SERVER_SHOULD_HIDE
+08-01 21:11:51.014  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3227
+08-01 21:11:51.015  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 0, unlocked = true
+08-01 21:11:51.015  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1877 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.android.testing.espresso.BasicSample fieldId=0 fieldName=null extras=null}, false)
+08-01 21:11:51.015  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():4008 ShouldHideHeaderOnInitialState = false
+08-01 21:11:51.016  1553  1553 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 2, unlocked = true
+08-01 21:11:51.277   842   911 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=falsecallback=android.view.ViewRootImpl$$ExternalSyntheticLambda17@5fc28cc
+08-01 21:11:51.278   519  1084 W InputManager-JNI: Input channel object 'b6c8b6a Splash Screen com.example.android.testing.espresso.BasicSample (client)' was disposed without first being removed with the input manager!
+08-01 21:11:51.409 29108 29129 W FileTestStorage: Output properties is not supported.
+08-01 21:11:51.412 29108 29129 I Tracing : Tracer added: class androidx.test.platform.tracing.AndroidXTracer
+08-01 21:11:51.419 29108 29129 D CompatibilityChangeReporter: Compat change id reported: 247079863; UID 10193; state: DISABLED
+08-01 21:11:51.432 29108 29129 D EventInjectionStrategy: Creating injection strategy with input manager.
+08-01 21:11:51.433 29108 29129 W sso.BasicSample: Accessing hidden method Landroid/hardware/input/InputManager;->getInstance()Landroid/hardware/input/InputManager; (unsupported, reflection, allowed)
+08-01 21:11:51.433 29108 29129 W sso.BasicSample: Accessing hidden method Landroid/hardware/input/InputManager;->injectInputEvent(Landroid/view/InputEvent;I)Z (unsupported, reflection, allowed)
+08-01 21:11:51.433 29108 29129 W sso.BasicSample: Accessing hidden field Landroid/hardware/input/InputManager;->INJECT_INPUT_EVENT_MODE_WAIT_FOR_FINISH:I (unsupported, reflection, allowed)
+08-01 21:11:51.445 29108 29108 W sso.BasicSample: Accessing hidden method Landroid/os/MessageQueue;->next()Landroid/os/Message; (unsupported, reflection, allowed)
+08-01 21:11:51.445 29108 29108 W sso.BasicSample: Accessing hidden field Landroid/os/MessageQueue;->mMessages:Landroid/os/Message; (unsupported, reflection, allowed)
+08-01 21:11:51.445 29108 29108 W sso.BasicSample: Accessing hidden method Landroid/os/Message;->recycleUnchecked()V (unsupported, reflection, allowed)
+08-01 21:11:51.448 29108 29108 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Hello Espresso!"}' assertion on view view.getId() is <2130903044/com.example.android.testing.espresso.BasicSample:id/textToBeChanged>
+08-01 21:11:51.476   842   912 D SplashScreenView: Build android.window.SplashScreenView{27f1b83 V.E...... ......ID 0,0-0,0}
+08-01 21:11:51.476   842   912 D SplashScreenView: Icon: view: null drawable: null size: 0
+08-01 21:11:51.476   842   912 D SplashScreenView: Branding: view: android.view.View{4d2d100 G.ED..... ......I. 0,0-0,0 #10204ef android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+08-01 21:11:51.490 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.MainActivity@3d72278 in: PAUSED
+08-01 21:11:51.491 29108 29108 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.android.testing.espresso.BasicSample.MainActivity@3d72278
+08-01 21:11:51.493   317   317 D Zygote  : Forked child process 29144
+08-01 21:11:51.500   842   916 E OpenGLRenderer: Unable to match the desired swap behavior.
+08-01 21:11:51.505   359   359 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+08-01 21:11:51.528   842   916 D EGL_emulation: app_time_stats: avg=3270.94ms min=3270.94ms max=3270.94ms count=1
+08-01 21:11:51.547 29144 29144 I asicSample.test: Late-enabling -Xcheck:jni
+08-01 21:11:51.564 29144 29144 I asicSample.test: Using CollectorTypeCC GC.
+08-01 21:11:51.579   388   420 I adbd    : jdwp connection from 29144
+08-01 21:11:51.599 29144 29144 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10195; state: ENABLED
+08-01 21:11:51.600 29144 29144 D CompatibilityChangeReporter: Compat change id reported: 242716250; UID 10195; state: DISABLED
+08-01 21:11:51.604 29144 29144 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+08-01 21:11:51.615 29144 29144 D nativeloader: Configuring clns-6 for other apk /system/framework/android.test.mock.jar. target_sdk_version=32, uses_libraries=ALL, library_path=/data/app/~~pTn6kxvO68vIas4AyLjYFA==/com.example.android.testing.espresso.BasicSample.test-zsbEqIN27cwS08IYYRILGw==/lib/arm64, permitted_path=/data:/mnt/expand:/data/user/0/com.example.android.testing.espresso.BasicSample.test
+08-01 21:11:51.617 29144 29144 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+08-01 21:11:51.620 29144 29144 D nativeloader: Configuring clns-7 for other apk /system/framework/android.test.runner.jar. target_sdk_version=32, uses_libraries=ALL, library_path=/data/app/~~pTn6kxvO68vIas4AyLjYFA==/com.example.android.testing.espresso.BasicSample.test-zsbEqIN27cwS08IYYRILGw==/lib/arm64, permitted_path=/data:/mnt/expand:/data/user/0/com.example.android.testing.espresso.BasicSample.test
+08-01 21:11:51.621 29144 29144 W ziparchive: Unable to open '/data/app/~~pTn6kxvO68vIas4AyLjYFA==/com.example.android.testing.espresso.BasicSample.test-zsbEqIN27cwS08IYYRILGw==/base.dm': No such file or directory
+08-01 21:11:51.621 29144 29144 W ziparchive: Unable to open '/data/app/~~pTn6kxvO68vIas4AyLjYFA==/com.example.android.testing.espresso.BasicSample.test-zsbEqIN27cwS08IYYRILGw==/base.dm': No such file or directory
+08-01 21:11:51.646 29144 29144 D nativeloader: Configuring clns-8 for other apk /data/app/~~pTn6kxvO68vIas4AyLjYFA==/com.example.android.testing.espresso.BasicSample.test-zsbEqIN27cwS08IYYRILGw==/base.apk. target_sdk_version=32, uses_libraries=, library_path=/data/app/~~pTn6kxvO68vIas4AyLjYFA==/com.example.android.testing.espresso.BasicSample.test-zsbEqIN27cwS08IYYRILGw==/lib/arm64, permitted_path=/data:/mnt/expand:/data/user/0/com.example.android.testing.espresso.BasicSample.test
+08-01 21:11:51.649 29144 29144 V GraphicsEnvironment: Currently set values for:
+08-01 21:11:51.650 29144 29144 V GraphicsEnvironment:   angle_gl_driver_selection_pkgs=[]
+08-01 21:11:51.650 29144 29144 V GraphicsEnvironment:   angle_gl_driver_selection_values=[]
+08-01 21:11:51.650 29144 29144 V GraphicsEnvironment: ANGLE GameManagerService for com.example.android.testing.espresso.BasicSample.test: false
+08-01 21:11:51.650 29144 29144 V GraphicsEnvironment: com.example.android.testing.espresso.BasicSample.test is not listed in per-application setting
+08-01 21:11:51.650 29144 29144 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+08-01 21:11:51.680 29144 29164 D libEGL  : loaded /vendor/lib64/egl/libEGL_emulation.so
+08-01 21:11:51.681 29144 29144 D CompatibilityChangeReporter: Compat change id reported: 237531167; UID 10195; state: DISABLED
+08-01 21:11:51.682 29144 29144 W OpenGLRenderer: Unknown dataspace 0
+08-01 21:11:51.687 29144 29164 D libEGL  : loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+08-01 21:11:51.687 29144 29164 D libEGL  : loaded /vendor/lib64/egl/libGLESv2_emulation.so
+08-01 21:11:51.702 29144 29162 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+08-01 21:11:51.702 29144 29162 W OpenGLRenderer: Failed to initialize 101010-2 format, error = EGL_SUCCESS
+08-01 21:11:51.708   127   127 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+08-01 21:11:51.708 29144 29162 I Gralloc4: mapper 4.x is not supported
+08-01 21:11:51.712 29144 29162 E OpenGLRenderer: Unable to match the desired swap behavior.
+08-01 21:11:51.743 27998 28014 E OpenGLRenderer: Unable to match the desired swap behavior.
+08-01 21:11:51.762 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.MainActivity@3d72278 in: STOPPED
+08-01 21:11:51.766 29108 29108 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.android.testing.espresso.BasicSample.MainActivity@3d72278
+08-01 21:11:51.766 29108 29108 D LifecycleMonitor: Lifecycle status change: com.example.android.testing.espresso.BasicSample.MainActivity@3d72278 in: DESTROYED
+08-01 21:11:51.766 29108 29108 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+08-01 21:11:51.769 29108 29129 I TestRunner: finished: validateTextView(com.example.android.testing.espresso.BasicSample.MainActivityTest)
